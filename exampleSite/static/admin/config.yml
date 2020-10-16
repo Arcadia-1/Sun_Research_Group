@@ -16,7 +16,7 @@ collections:
       - label: "Avatar (upload an image named `avatar.jpg/png`)"
         name: "avatar_filename"
         widget: "image"
-        default: "avatar"
+        default: "NanSun-235x278"
         required: false
         media_library:
           config:
