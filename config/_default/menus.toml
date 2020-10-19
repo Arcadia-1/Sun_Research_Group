@@ -17,10 +17,12 @@
   name = "学术成果"
   url = "#featured"
   weight = 30
+
 [[main]]
   name = "招聘与招生"
   url = "#projects"
   weight = 40
+  
 [[main]]
   name = "联系方式"
   url = "#contact"
