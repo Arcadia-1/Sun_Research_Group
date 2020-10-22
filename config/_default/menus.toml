@@ -21,15 +21,14 @@
   weight = 30
 
 [[main]]
-  name = "本研课程"
-  url = "courses/"
-  weight = 50
-
-[[main]]
   name = "招聘与招生"
   url = "#posts"
+  weight = 50
+  
+[[main]]
+  name = "本研课程"
+  url = "courses/"
   weight = 60
-
 
 [[main]]
   name = "联系方式"
