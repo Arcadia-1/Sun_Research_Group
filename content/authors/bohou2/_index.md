@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 小红
+title: 小蓝
 
 # Username (this should match the folder name)
 authors:
-- xiaohong
+- xiaolan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 博士后
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: 博士研究生
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是红色小朋友
+bio: 这里是蓝色小朋友
 
 interests:
 - 模拟和混合信号集成电路
@@ -65,13 +65,10 @@ user_groups:
 - 团队
 ---
 
-1. 芯片设计和设计自动化相关方向的博士学位
+芯片设计和设计自动化相关方向的博士学位
 
-2.热爱科研工作，对芯片设计有浓厚的科研兴趣
+热爱科研工作，对芯片设计有浓厚的科研兴趣
 
-3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
+有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
 
-4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
-
-5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
 
