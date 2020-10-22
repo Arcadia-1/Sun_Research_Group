@@ -23,17 +23,17 @@ subtitle = ""
 icon = "小红"
 icon_pack = "custom"
 name = "小红"
-description = "200%"
+description = "<a href="https://sourcethemes.com/academic/docs/page-builder/#icons">小红</a>"
 
 [[feature]]
 icon = "小蓝"
 icon_pack = "custom"
 name = "小蓝"
-description = "200%"
+description = "蓝色的小朋友"
 
 [[feature]]
 icon = "小紫"
 icon_pack = "custom"
 name = "小紫"
-description = "200%"
+description = "紫色的小朋友"
 +++
