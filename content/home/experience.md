@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Experience"
+title = "主要经历"
 subtitle = ""
 
 # Date format for experience
@@ -29,8 +29,8 @@ date_format = "2006"
 [[experience]]
   title = "副教授"
   company = "德克萨斯大学奥斯丁分校电气和计算机工程系"
-  company_url = "美国德克萨斯州奥斯汀市"
-  location = ""
+  company_url = ""
+  location = "美国德克萨斯州奥斯汀市"
   date_start = "2011-01-01"
   date_end = "2020-01-01"
   description = "2017年获得终身教职"
