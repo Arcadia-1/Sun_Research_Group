@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "清华大学创芯实验室"
+title = "做世界一流芯片"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
@@ -36,5 +36,4 @@ hero_media = "FOM.jpg"
 
 +++
 
-**做世界一流芯片！**
 
