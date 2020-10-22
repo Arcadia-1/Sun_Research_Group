@@ -22,8 +22,7 @@ publication_types: ["2"]
 publication: "*JSSC*"
 publication_short: ""
 
-abstract: Abstract—The noise-shaping successive approximation register (NS-SAR) analog-to-digital converter (ADC) is an emerging hybrid architecture that achieves high resolution and power efficiency simultaneously by combining the merits of the SAR ADC and the ?? ADC. Most prior works adopting the cas-
-caded integrator feed-forward (CIFF) structure demonstrate inefficiency in realizing optimized noise transfer function (NTF). This paper presents a second-order NS-SAR ADC employing the error-feedback (EF) structure to realize complex NTF zeros for noise-shaping enhancement with the minimum modification to a standard SAR. It implements a low-power scaling-friendly EF path by using a passive finite impulse response (FIR) and a comparator-reused dynamic amplifier with process-voltage-temperature (PVT) tracking background calibration. Fabricated in 40-nm CMOS, the prototype chip consumes 84 μW when operating at 10 MS/s. The NS-SAR achieves peak Schreier FoM of 178 dB with 79-dB signal to noise and distortion ratio (SNDR) at an oversampling ratio (OSR) of 8.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: 在此前的Noise shaping SAR结构上做了两个改进，实现了三个目标。
