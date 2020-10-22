@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "A 0.025-mm2 0.8-V 78.5-dB SNDR VCO-Based Sensor Readout Circuit in a Hybrid PLL- ΔΣ M Structure"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ZhaoWenda
+- LiShaolan
+- XuBiying
+- YangXiangxing
+- ShenLinxiao
+- director
+date: "2019-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*IEEE Journal of Solid-State Circuits*"
+publication_short: "*JSSC*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article presents a capacitively coupled voltage-controlled oscillator (VCO)-based sensor readout featuring a hybrid phase-locked loop (PLL)-ΔΣ modulator structure. It leverages phase-locking and phase-frequency detector (PFD) array to concurrently perform quantization and dynamic element matching (DEM), much-reducing hardware/power compared with the existing VCO-based readouts' counting scheme. A low-cost in-cell data-weighted averaging (DWA) scheme is presented to enable a highly linear tri-level digital-to-analog converter (DAC). Fabricated in 40-nm CMOS, the prototype readout achieves 78-dB SNDR in 10-kHz bandwidth, consuming 4.68 μW and 0.025-mm 2 active area. With 172-dB Schreier figure of merit, its efficiency advances the state-of-the-art VCO-based readouts by 50×
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/document/8945232
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -64,13 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
