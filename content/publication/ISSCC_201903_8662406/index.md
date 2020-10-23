@@ -1,13 +1,19 @@
 ---
-title: "An example conference paper"
+title: "A 0.01mm2 25µW 2MS/s 74dB-SNDR Continuous-Time Pipelined-SAR ADC with 120fF Input Capacitor"
 authors:
+- ShenLinxiao
+- TangXiyuan
+- HsuChenKai
+- ShiWei
+- LiShaolan
+- ZhaoWenda
+- Abhishek Mukherjee
 - director
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2019-03-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +22,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2019 IEEE International Solid- State Circuits Conference*
+publication_short: In *ISSCC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The kT/C noise poses a fundamental SNR limit for discrete-time (DT) ADCs with front-end sampling operations. To achieve a high resolution, the sampling capacitor needs to be sufficiently large (e.g., 3pF for 80dB SNR assuming 2V pp swing) and it has to be quadrupled for every 1b increase in the resolution. A large sampling capacitor poses critical challenges for both the ADC input buffer and the reference buffer (Fig. 3.4.1). To meet the stringent linearity requirement of high-resolution ADCs, these buffers consume a significant amount of power, which can be comparable or even higher than the ADC itself. In addition, a large capacitor makes it difficult to design the ADC front-end S/H circuit, leading to considerable power/area costs and increased design complexity.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- ADC
+- Pipelined
 featured: true
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://ieeexplore.ieee.org/document/8662406
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -43,7 +50,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -62,14 +69,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
