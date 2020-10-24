@@ -14,7 +14,7 @@ baseurl = "https://wizardly-lalande-7b56d4.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy;清华大学电子工程系创芯实验室{year}"
 
 ############################
 ## Advanced options below ##
