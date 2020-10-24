@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "地址"
+title = "联系方式"
 subtitle = ""
 
 # Automatically link email and phone?
