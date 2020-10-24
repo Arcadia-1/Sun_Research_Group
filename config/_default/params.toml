@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "2829565769@qq.com"
+email = ""
 phone = ""
 
 # Address
@@ -97,7 +97,7 @@ address = {street = "海淀区清华园1号", city = "北京", region = "", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.004572", longitude = "116.331595"}
+coordinates = {latitude = "40.009645", longitude = "116.333374"}
 
 # Directions for visitors to locate you.
 directions = ""
