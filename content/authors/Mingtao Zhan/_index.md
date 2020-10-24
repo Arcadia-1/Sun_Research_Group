@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "2829565769@qq.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

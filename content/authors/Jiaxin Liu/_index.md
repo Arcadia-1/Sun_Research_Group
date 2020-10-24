@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "2829565769@qq.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

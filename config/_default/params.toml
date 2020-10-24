@@ -97,7 +97,7 @@ address = {street = "海淀区清华园1号", city = "北京", region = "", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.004", longitude = "116.331"}
+coordinates = {latitude = "40.004", longitude = "116.33"}
 
 # Directions for visitors to locate you.
 directions = ""
