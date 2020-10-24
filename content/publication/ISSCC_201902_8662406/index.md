@@ -8,7 +8,7 @@ authors:
 - LiShaolan
 - ZhaoWenda
 - Abhishek Mukherjee
-- director
+- Nan Sun
 date: "2019-03-07T00:00:00Z"
 doi: ""
 
@@ -39,13 +39,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: https://ieeexplore.ieee.org/document/8662406
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
