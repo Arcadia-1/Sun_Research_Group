@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 小蓝
+title: 仲易
 
 # Username (this should match the folder name)
 authors:
-- xiaolan
+- Yi Zhong
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: 清华大学，本科，2006
+  - course: 
     # institution: 
     # year: 2006
 
@@ -65,10 +65,4 @@ user_groups:
 - 团队
 ---
 
-芯片设计和设计自动化相关方向的博士学位
-
-热爱科研工作，对芯片设计有浓厚的科研兴趣
-
-有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
-
-
+Yi Zhong (S’19) received the B.S. degree in electronics engineering from the Beijing Institute of Technology (BIT), Beijing, China, in 2013, where he is currently pursuing the Ph.D. degree.,He was a Visiting Ph.D. Student with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA, from 2015 to 2018. His current research interests include low-power scaling-friendly oversampling data converter design techniques.,Mr. Zhong received Beijing Excellent Students Awards in 2013. He serves as a Reviewer for the IEEE Journal of Solid-State Circuits.(Based on document published on 31 October 2019).

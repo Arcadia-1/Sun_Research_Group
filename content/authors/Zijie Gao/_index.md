@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 小蓝
+title: 高子杰
 
 # Username (this should match the folder name)
 authors:
-- xiaolan
+- Zijie Gao
 
 # Is this the primary user of the site?
 superuser: false
