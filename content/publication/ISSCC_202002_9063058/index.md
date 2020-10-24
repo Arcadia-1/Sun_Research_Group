@@ -12,7 +12,7 @@ authors:
 - David Z. Pan
 - Nan Sun
 date: "2020-04-13T00:00:00Z"
-doi: "0.1109/ISSCC19947.2020.9063058"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-24T00:00:00Z"
