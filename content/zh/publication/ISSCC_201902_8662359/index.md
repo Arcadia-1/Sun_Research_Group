@@ -21,10 +21,11 @@ publication_types: ["1"]
 publication: International Solid-State Circuits Conference
 publication_short: ISSCC
 
-abstract: As with any ADC with a front-end S/H, the SAR ADC suffers from a fundamental SNR challenge, its sampling kT/C noise. To satisfy the SNR requirement, the input capacitor has to be sufficiently large (e.g. 3pF for a 13b ADC with 2V pp swing). This, however, makes it very costly to design the ADC input driver and the reference buffer. The input driver and the reference buffer are the bottleneck nowadays. Their power, area, and design complexity can be an order of magnitude higher than the SAR ADC core.
+# 中文摘要
+abstract: 一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要
 
-# Summary. An optional shortened abstract.
-summary: 一两句简短的介绍一两句简短的介绍一两句简短的介绍一两句简短的介绍一两句简短的介绍一两句简短的介绍
+# Summary. 写发表的刊物或会议名即可
+summary: ISSCC
 
 tags:
 - ADC
@@ -43,3 +44,12 @@ image:
   preview_only: false
 
 ---
+
+
+一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍
+
+{{< figure src="figure1.jpg" title="结构" numbered="true" >}}
+
+一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍
+
+一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍一些中文介绍
