@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
 linktitle: 数据转换器
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: 数据转换器是沟通数字世界与模拟世界的桥梁，包括数模转换器和模数转换器。
 weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-09-09T00:00:00Z"
+lastmod: "2020-10-29T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
