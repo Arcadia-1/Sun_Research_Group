@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙楠
+title: Nan Sun
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 清华大学长聘教授
+role: Professor
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,22 +18,22 @@ role: 清华大学长聘教授
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 欢迎来到清华大学孙楠教授的研究小组。清华大学孙楠教授正在组建国际领先水平的集成电路芯片设计研究团队，开展高性能集成电路芯片设计与自动化方向的研究。
+bio: Welcome to Prof. Nan Sun’s research group at Tsinghua University.
 
 interests:
-- 模拟和混合信号集成电路；
-- 微型核和电子自旋共振系统；
-- 低成本医疗成像系统；
-- 电磁传感器
+- IC design
+- analog
+- mixed-signal
+- data converters
 
 education:
   courses:
-  - course: 哈佛大学，博士，2010
-    # institution: 
-    # year: 2010
-  - course: 清华大学，本科，2006
-    # institution: 
-    # year: 2006
+  - course: Ph.D. degree
+    institution: School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA
+    year: 2010
+  - course: B.S. degree (Hons.)
+    institution: the Department of Electronic Engineering, Tsinghua University, Beijing, China
+    year: 2006
 
 
 # Social/Academic Networking
@@ -68,8 +68,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 导师
+- Director
 ---
 
-孙楠（IEEE高级成员）于2006年获得清华大学电子工程系荣誉学士学位，2010年在美国马萨诸塞州剑桥市哈佛大学工程与应用科学学院获得博士学位。，他目前是坦普尔基金会（Temple Foundation）受聘为德克萨斯大学奥斯汀分校（UT Austin）电气和计算机工程系的副教授，目前的研究方向包括模拟、混合信号和射频集成电路、微型自旋共振系统、磁和图像传感器，以及微型和纳米级固态平台（硅集成电路及其他）分析生物技术和医学的生物系统，孙博士曾于2013年获得NSF职业奖，并于2015年和2016年获得犹他州奥斯汀分校的杰克·基尔比研究奖。2013年至2017年，他担任AMD捐赠发展主席。他是IEEE定制集成电路会议和亚洲固态电路会议的技术计划委员会成员。他是《IEEE电路与系统学报》的副主编和《IEEE固态电路杂志》的客座编辑。他目前是IEEE电路和系统协会的杰出讲师。（基于2020年1月9日发布的文件）。
+Nan Sun (Senior Member, IEEE) received the B.S. degree (Hons.) from the Department of Electronic Engineering, Tsinghua University, Beijing, China, in 2006, and the Ph.D. degree from the School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA, in 2010.,He is currently a Professor with the Department of Electronic Engineering, Tsinghua University. He was an Assistant Professor from 2011 to 2017 and then a tenured Associate Professor from 2017 to 2020 with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA, where he is currently on leave. He was also a Visiting Professor at Tsinghua University from 2018 to 2020. He has published over 140 journal and conference papers, including over 60 articles in premier journals (JSSC) and at conferences (ISSCC/VLSI/CICC) in the IC design field. He has also written seven book chapters and holds seven U.S. patents. As an advisor or co-advisor, he has graduated 21 Ph.D. students, who are holding key positions in both academia and industry. His research interests include analog, mixed-signal, and RF integrated circuit (IC) design, analog circuit design automation, sensor interfaces, miniature spin resonance systems, and solid-state platforms to analyze biological systems for biotechnology and medicine.,Dr. Sun received the NSF Career Award in 2013 and the inaugural IEEE Solid-State Circuits Society New Frontier Award in 2020. He held the AMD Endowed Development Chair from 2013 to 2017, the Texas Instruments Jack Kilby Endowed Professorship from 2017 to 2019, and the Temple Foundation Endowed Professorship from 2019 to 2020. He was the Co-Chair of the IEEE Solid-State-Circuits Society and Circuits-and-Systems Society Joint Chapter in the Central Texas Section from 2011 to 2018 and won the Chapter of the Year Award in 2014. He has served as an Associate Editor for the IEEE Transactions on Circuits and Systems—I: Regular Papers, a Guest Editor for the IEEE Journal of Solid-State Circuits, and an Associate Editor for the Journal of Semiconductor. He has also served in the technical program committees of the IEEE Custom Integrated Circuits Conference and the IEEE Asian Solid-State Circuit Conference. He is currently serving as the IEEE Circuits-and-Systems Society Distinguished Lecturer from 2019.(Based on document published on 5 August 2020).
 
