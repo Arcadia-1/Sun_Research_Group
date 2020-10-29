@@ -6,31 +6,31 @@
 
 
 [[main]]
-  name = "首页"
+  name = "Home"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "团队成员"
+  name = "Team"
   url = "#people"
   weight = 20
 
 [[main]]
-  name = "学术成果"
+  name = "Publications"
   url = "#featured"
   weight = 30
 
 [[main]]
-  name = "招聘与招生"
+  name = "Recruitment"
   url = "#posts"
   weight = 50
   
 [[main]]
-  name = "本研课程"
+  name = "Courses"
   url = "courses/"
   weight = 60
 
 [[main]]
-  name = "联系方式"
+  name = "Contact"
   url = "#contact"
   weight = 70

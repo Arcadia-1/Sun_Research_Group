@@ -14,9 +14,9 @@
 
 
 
-#  title = "Chinese website title..."
+#  title = "创芯实验室"
 #  [zh.params]
-#    description = "Site description in Chinese..."
+#    description = "创芯实验室中文网站"
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
