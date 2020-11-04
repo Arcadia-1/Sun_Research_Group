@@ -21,8 +21,8 @@ role: XX公司工程师
 # （3.1）若想写具体的公司/机构/部门，可以取消下面的注释以显示内容
 # Organizations/Affiliations
 organizations:
-- name: 清华大学
-  url: "https://www.tsinghua.edu.cn/index.htm"
+- name: 亚德诺半导体
+  url: "https://www.analog.com/cn/index.html"
 
 # （4）一两句话的简介，不过一般不会被显示
 # Short bio (displayed in user profile at end of posts)
