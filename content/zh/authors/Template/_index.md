@@ -16,12 +16,12 @@ superuser: false
 
 # (3) 填写现在的身份/职业
 # Role/position
-role: XX公司工程师
+role: 模拟IC设计高级工程师
 
 # （3.1）若想写具体的公司/机构/部门，可以取消下面的注释以显示内容
 # Organizations/Affiliations
 organizations:
-- name: 亚德诺半导体
+- name: 亚德诺半导体XX部门
   url: "https://www.analog.com/cn/index.html"
 
 # （4）一两句话的简介，不过一般不会被显示
@@ -65,9 +65,9 @@ user_groups:
 
 <!-- 一段或者多段自我介绍，推荐200字以上。可以配图 -->
 人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
+{{< figure src="wafer.png" title="wafer" numbered="true" >}}
 
-{{< figure src="fig1.jpg" title="照见" numbered="true" >}}
 
 人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
 
-{{< figure src="wafer.png" title="wafer" numbered="true" >}}
+{{< figure src="fig1.jpg" title="" numbered="true" >}}
