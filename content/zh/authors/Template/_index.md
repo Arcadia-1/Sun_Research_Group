@@ -36,7 +36,7 @@ interests:
 # （6）学历情况
 education:
   courses:
-  - course: 学士
+  - course: 学士（优秀毕业生）
     institution: 清华大学电子工程系
     year: 2010
   - course: 硕士
@@ -70,4 +70,4 @@ user_groups:
 
 人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
 
-{{< figure src="wafer.jpg" title="wafer" numbered="true" >}}
+{{< figure src="wafer.png" title="wafer" numbered="true" >}}
