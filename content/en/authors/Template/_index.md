@@ -4,7 +4,7 @@
 
 # （1）要显示的名字
 # name to display
-title: 样例
+title: Sample Sample
 
 # （2）与文件夹的名字相同。文件夹的名字应该是自己发论文时署名的全称。
 # the same as the foldername, which should be the same as the papers' author name.
@@ -16,35 +16,33 @@ superuser: false
 
 # (3) 填写现在的身份/职业
 # Role/position
-role: 模拟IC设计高级工程师
+role: Senior analog IC designer
 
 # （3.1）若想写具体的公司/机构/部门，可以取消下面的注释以显示内容
 # Organizations/Affiliations
 organizations:
-- name: 亚德诺半导体XX部门
-  url: "https://www.analog.com/cn/index.html"
+- name: ADI, mixed-signal group
+  url: "https://www.analog.com/index.html"
 
 # （4）一两句话的简介，不过一般不会被显示
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是蓝色小朋友
+bio: Happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy.
 
 # （5）研究兴趣/领域/方向
 interests:
-- 模拟和混合信号集成电路
-- 传感器
+- Mixed signal.....
+- Sensors
 
 # （6）学历情况
 education:
   courses:
-  - course: 博士
-    institution: 普渡大学电子工程系
-    year: 2020
-  - course: 硕士
-    institution: 北京大学电子工程系
-    year: 2015
-  - course: 学士（优秀毕业生）
-    institution: 清华大学电子工程系
+  - course: Ph.D. degree
+    institution: School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA
     year: 2010
+  - course: B.S. degree (Hons.)
+    institution: the Department of Electronic Engineering, Tsinghua University, Beijing, China
+    year: 2006
+
 
 # （7）联系方式，可以只写邮箱（如果需要的话也可以写twitter等）。把以下邮箱换掉即可
 # Social/Academic Networking
@@ -59,17 +57,16 @@ social:
 highlight_name: true
 
 
-# （8）显示分组。目前有三种选项：导师、团队、已毕业
+# （8）显示分组。英文版有三种选项：Director,Team,Alumni
 # Organizational groups that you belong to (for People widget)
 user_groups:
-- 已毕业
+- Alumni
 ---
 
 <!-- 一段或者多段自我介绍，推荐100字以上。可以配图 -->
-人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
+Happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy
 {{< figure src="wafer.png" title="wafer" numbered="true" >}}
 
 
-人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
-
+Happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy
 {{< figure src="fig1.jpg" title="" numbered="true" >}}
