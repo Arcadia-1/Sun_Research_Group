@@ -46,9 +46,6 @@ education:
 
 # （7）联系方式，可以只写邮箱
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -67,4 +64,6 @@ user_groups:
 ---
 
 <!-- 一段或者多段自我介绍，推荐200字以上。可以配图 -->
-Jiaxin Liu (S’13–M’19) received the B.S. degree from Shandong University, Jinan, China, in 2010, and the M.S. and Ph.D. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2013 and 2018, respectively.,From 2015 to 2017, he was a Visiting Ph.D. Student with the Department of Electrical and Computer Engineering, The University of Texas (UT) at Austin, Austin, TX, USA. He is currently a Post-Doctoral Researcher with Tsinghua University, Beijing, China. His research interest is on analog and mixed-signal integrated circuits design.,Dr. Liu was a recipient of the First Prize of Academic Scholarship in UESTC for the consecutive years from 2012 to 2015, the China National Scholarship in 2012, the First Prize of VeriSilicon Circuits Design Competition in 2015, and the China CSC Scholarship in 2015.(Based on document published on 6 March 2019).
+人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
+
+人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。人活一辈子，开心最重要。拥有健康的体魄，在快乐的心境中做自己喜欢做的事情，是人生最大的幸福。
