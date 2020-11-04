@@ -33,13 +33,11 @@ publication_types: ["1"]
 # （5）发表刊物
 # Publication name and optional abbreviated publication name.
 publication: International Solid-State Circuits Conference
-publication_short: ISSCC
+summary: ISSCC, 2020
 
 # （6）摘要
 abstract: 中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要中文摘要
 
-# （7）发表刊物、年份，该信息将会在论文列表中显示
-summary: ISSCC, 2020
 
 # （8）标签……目前还没有明确的分类。看情况放标签吧，会有自动按照标签分类的链接。
 tags:
@@ -47,20 +45,13 @@ tags:
 - SAR
 - NSSAR
 
-# （8.1）是否highlight。没有开启highlight功能（孙老师说大家的论文都很好，不需要摆几篇出来高亮），所以这里不需要改。
-featured: true
 
 # （9）对应IEEE链接，修改超链接地址即可
 links:
 - name: IEEE Xplore
   url: https://ieeexplore.ieee.org/document/9063058
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+
 
 ---
 
