@@ -47,21 +47,18 @@ education:
     year: 2020
 
 
-# （7）联系方式，可以只写邮箱
+# （7）联系方式，可以只写邮箱。把以下邮箱换掉即可
 # Social/Academic Networking
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 
-# （8）显示分组。有三种选项：导师、团队、已毕业
+# （8）显示分组。目前有三种选项：导师、团队、已毕业
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 已毕业
 ---
