@@ -18,7 +18,7 @@ role: 博士研究生
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是蓝色小朋友
+bio: 
 
 interests:
 - 模拟和混合信号集成电路
