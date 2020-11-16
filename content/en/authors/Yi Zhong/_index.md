@@ -29,7 +29,12 @@ education:
   - course: Ph.D. degree
     institution: Beijing Insititute of Techology
     year: 2020
-
+  - course: Visiting Ph.D.
+    institution: The Department of Electrical and Computer Engineering, The University of Texas at Austin
+    year: 2015-2018    
+  - course: B.S. degree
+    institution: Beijing Insititute of Techology
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
