@@ -25,7 +25,8 @@ interests:
 
 education:
   courses:
-  - course: 清华大学，本科，2006
+  - course: 清华大学，本科，2015-2019
+            清华大学，博士，2019-
     # institution: 
     # year: 2006
 
@@ -37,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gaozj19@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
