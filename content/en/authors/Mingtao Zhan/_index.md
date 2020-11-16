@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- Team
 ---
 
 Mingtao Zhan (S’20) received the B.S. degree(Hons.) from Department of Electrical Engineering, Tsinghua University, Beijing, China, in 2020, where he is currently pursing the Ph.D. degree.

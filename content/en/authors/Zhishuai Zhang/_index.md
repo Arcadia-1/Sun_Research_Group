@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张智帅
+title: Zhishuai Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,16 +18,16 @@ role: 博士研究生
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是红色小朋友
+bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- Mixed Signal
 
 education:
   courses:
-  - course: 清华大学，本科，2006
-    # institution: 
-    # year: 2006
+  - course: B.S.
+    institution: Tsinghua University
+    year: 2016-
 
 
 # Social/Academic Networking
@@ -62,16 +62,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- Team
 ---
 
-1. 芯片设计和设计自动化相关方向的博士学位
-
-2.热爱科研工作，对芯片设计有浓厚的科研兴趣
-
-3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
-
-4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
-
-5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
+Zhishuai Zhang (S’19) is currently pursing the B.S. degree, while is going to be a Ph.D. student.
+His research interest includes analog and mixed-signal integrated circuits design.
 
