@@ -43,9 +43,9 @@ tags:
 
 
 # （8）对应IEEE链接，修改超链接地址即可
-links:
-- name: IEEE Xplore
-  url: 
+# links:
+# - name: IEEE Xplore
+#   url: 
 
 
 # （10）在三个短线下面写正文部分。基本上是markdown语法，参考格式已经列出。

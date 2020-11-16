@@ -2,10 +2,9 @@
 title: "A 13b 0.005mm2 40MS/s SAR ADC with kT/C Noise Cancellation"
 authors:
 - Jiaxin Liu
-- Xing Wang
-- Zijie Gao
-- Mingtao Zhan
 - Xiyuan Tang
+- Wenda Zhao
+- Linxiao Shen
 - Nan Sun
 
 
@@ -13,7 +12,7 @@ authors:
 date: "2020-02-16T00:00:00Z"
 
 # 修改本页面的日期
-publishDate: "2020-10-23T00:00:00Z"
+publishDate: "2020-11-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,11 +28,12 @@ publication_short: ISSCC
 abstract: 一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要一些中文摘要
 
 # Summary. 写发表的刊物或会议名即可
-summary: ISSCC, 2019
+summary: ISSCC, 2020
 
 tags:
 - ADC
 - NSSAR
+- Noise Cancellation
 featured: true
 
 links:
