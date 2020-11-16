@@ -1,7 +1,7 @@
 ---
 title: "A 13-ENOB Second-Order Noise-Shaping SAR ADC Realizing Optimized NTF Zeros Using the Error-Feedback Structure"
 authors:
-- LiShaolan
+- Shaolan Li
 - QiaoBo
 - DavidPan
 - director
