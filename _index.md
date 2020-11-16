@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D.
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,20 +18,18 @@ role: Ph.D. Student
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 这里是蓝色小朋友
 
 interests:
 - Mix-signal IC design
 
-
 education:
   courses:
-  - course: B.S.
-    institution: Tsinghua University
-    year: 2015-2019
-  - course: Ph.D.
-    institution: Tsinghua University
-    year: 2019-
+  - course: Tsinghua University, B.S. , 2015-2019
+            Tsinghua University, Ph.D., 2019-
+    # institution: 
+    # year: 2006
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,8 +63,10 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- 团队
 ---
 
 Zijie Gao (Student Member, IEEE) received the B.S. degree from Tsinghua University, Beijing, China, in 2019, where he is currently pursuing the Ph.D. degree with Department of Electronic Engineering, Tsinghua University, Beijing, China.
 From November 2019 to June 2020, he was a Visiting Researcher with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interests include low-power SAR analog-to-digital converter (ADC) and high-speed ADC designs.
+
+
