@@ -21,7 +21,7 @@ role: postdoctoral researcher
 bio:
 
 interests:
-- 混合信号集成电路
+- Mix-signal IC
 
 education:
   courses:
