@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: PhD Candidate
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,20 +18,18 @@ role: 博士研究生
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 这里是红色小朋友
 
 interests:
-- 高速模数转换器 
-- 数字辅助模数转换器
+- High speed analog-to-digital converters
+- Digitally assisted analog-to-digital converters
 
 education:
   courses:
-  - course: 博士研究生
-    institution: 清华大学
-    year: 2020-
-  - course: 本科
-    institution: 清华大学
-    year: 2016-2020
+  - course: Tsinghua University, PhD Candidate, 2020-
+  - course: Tsinghua University, Bachelor, 2016-2020
+    # institution: 
+    # year: 2006
 
 
 # Social/Academic Networking
@@ -41,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gmy20@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'gmy20@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -70,3 +68,4 @@ user_groups:
 ---
 
 古明阳2020年6月毕业于清华大学电子工程系，2020年9月起于清华大学电子工程系攻读博士学位。他主要的研究方向为高速模数转换器以及数字辅助模数转换器设计。
+Mingyang Gu received the bachelor's degree at June, 2020, from the department of electronic engineering, Tsinghua university. He has been pursuing the doctor's degree since September, 2020. His main research area includes high speed analog-to-digital converters and digitally assisted analog-to-digital converters.
