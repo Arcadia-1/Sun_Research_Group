@@ -13,9 +13,9 @@ superuser: true
 role: 清华大学长聘教授
 
 # # Organizations/Affiliations
-# organizations:
-# - name: 
-#   url: ""
+organizations:
+- name: 清华大学电子工程系
+  url: "http://www.ee.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 欢迎来到清华大学孙楠教授的研究小组。清华大学孙楠教授正在组建国际领先水平的集成电路芯片设计研究团队，开展高性能集成电路芯片设计与自动化方向的研究。

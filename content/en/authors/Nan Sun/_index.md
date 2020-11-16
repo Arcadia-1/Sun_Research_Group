@@ -13,9 +13,9 @@ superuser: true
 role: Professor
 
 # # Organizations/Affiliations
-# organizations:
-# - name: 
-#   url: ""
+organizations:
+- name: Department of Electronic Engineering, Tsinghua University
+  url: "http://www.ee.tsinghua.edu.cn/publish/eeen/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Welcome to Prof. Nan Sun’s research group at Tsinghua University.
