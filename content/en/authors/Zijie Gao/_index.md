@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zijie Gao
+title: 高子杰
 
 # Username (this should match the folder name)
 authors:
