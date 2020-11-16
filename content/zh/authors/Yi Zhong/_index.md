@@ -29,7 +29,7 @@ education:
   - course: 博士
     institution: 北京理工大学
     year: 2020
-   - course: 国家公派联合培养博士
+  - course: 国家公派联合培养博士
     institution: 美国德州大学奥斯汀分校
     year: 2015-2018    
   - course: 本科
