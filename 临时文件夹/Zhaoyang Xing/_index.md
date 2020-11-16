@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 仲易
+title: 邢朝阳
 
 # Username (this should match the folder name)
 authors:
-- Yi Zhong
+- Zhaoyang Xing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Post-Doc.
+role: 博士研究生
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,17 +18,16 @@ role: Post-Doc.
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 这里是红色小朋友
 
 interests:
-- Oversampling data converter design
-- Low-power scaling-friendly oversampling data converter design
+- 模拟和混合信号集成电路
 
 education:
   courses:
-  - course: Ph.D. degree
-    institution: Beijing Insititute of Techology
-    year: 2020
+  - course: 清华大学，本科，2021
+    # institution: 
+    # year: 2006
 
 
 # Social/Academic Networking
@@ -38,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhongyiut@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -63,8 +62,16 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- 团队
 ---
 
-Yi Zhong received the B.S. degree and Ph.D. degree in electronics engineering from the Beijing Institute of Technology (BIT), Beijing, China, in 2013 and 2020 respectively. He was a Visiting Ph.D. Student with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA, from 2015 to 2018. He is currently a Post-Doctoral Researcher with Tsinghua University.
-His current research is focused on oversampling data converter design techniques, especially on low-power scaling-friendly oversampling data converter design techniques. Mr. Zhong received Beijing Excellent Students Awards in 2013. He serves as a Reviewer for the IEEE Journal of Solid-State Circuits.
+1. 芯片设计和设计自动化相关方向的博士学位
+
+2.热爱科研工作，对芯片设计有浓厚的科研兴趣
+
+3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
+
+4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
+
+5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
+
