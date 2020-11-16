@@ -8,7 +8,6 @@ authors:
 - ShenLinxiao
 - director
 date: "2019-12-30T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-22T00:00:00Z"

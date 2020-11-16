@@ -8,6 +8,7 @@ authors:
 - ShenLinxiao
 - director
 date: "2019-12-30T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-22T00:00:00Z"
@@ -19,8 +20,8 @@ publishDate: "2020-10-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Journal of Solid-State Circuits"
-publication_short: "JSSC"
+publication: "*IEEE Journal of Solid-State Circuits*"
+publication_short: "*JSSC*"
 
 abstract: This article presents a capacitively coupled voltage-controlled oscillator (VCO)-based sensor readout featuring a hybrid phase-locked loop (PLL)-ΔΣ modulator structure. It leverages phase-locking and phase-frequency detector (PFD) array to concurrently perform quantization and dynamic element matching (DEM), much-reducing hardware/power compared with the existing VCO-based readouts' counting scheme. A low-cost in-cell data-weighted averaging (DWA) scheme is presented to enable a highly linear tri-level digital-to-analog converter (DAC). Fabricated in 40-nm CMOS, the prototype readout achieves 78-dB SNDR in 10-kHz bandwidth, consuming 4.68 μW and 0.025-mm 2 active area. With 172-dB Schreier figure of merit, its efficiency advances the state-of-the-art VCO-based readouts by 50×
 

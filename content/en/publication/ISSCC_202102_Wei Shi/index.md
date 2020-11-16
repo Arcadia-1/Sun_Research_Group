@@ -3,13 +3,15 @@
 # 如果论文没有die photo，就放一张有代表性的结构图。
 
 # （1）题目和作者，不论中英文页面都写英文，不需要翻译。
-title: "A 0.4-to-40MS/s 75.7dB-SNDR Fully-Dynamic Event-Driven Pipelined ADC with 3-Stage Cascoded Floating Inverter Amplifier"
+title: "A 3.7mW 12.5MHz 81dB-SNDR 4th-Order CTDSM with Single-OTA and 2nd-Order NS-SAR"
 authors:
-- Xiyuan Tang
-- Xiangxing Yang
-- Jiaxin Liu
 - Wei Shi
-- David Z. Pan
+- Jiaxin Liu
+- Abhishek Mukherjee
+- Xiangxing Yang
+- Xiyuan Tang
+- Linxiao Shen
+- Wenda Zhao
 - Nan Sun
 
 # （2）论文发表的时间（会议的话就是会议召开的第一天）
@@ -39,7 +41,7 @@ abstract: 敬请期待
 tags:
 - ADC
 - SAR
-
+- NSSAR
 
 
 # （8）对应IEEE链接，修改超链接地址即可
