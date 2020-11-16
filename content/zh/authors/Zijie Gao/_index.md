@@ -25,11 +25,12 @@ interests:
 
 education:
   courses:
-  - course: 清华大学，本科，2015-2019
-            清华大学，博士，2019-
-    # institution: 
-    # year: 2006
-
+  - course: 博士
+    institution: 清华大学电子工程系
+    year: 2019-
+  - course: 大学本科
+    institution: 清华大学电子工程系
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,5 +67,4 @@ user_groups:
 - 团队
 ---
 
-热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。
-
+热爱科研工作，对芯片设计有浓厚的科研兴趣。
