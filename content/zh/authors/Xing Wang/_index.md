@@ -14,21 +14,23 @@ role: 博士研究生
 
 # # Organizations/Affiliations
 # organizations:
-# - name: 
-#   url: ""
+# - name: 清华大学电子工程系
+#   url: "https://www.analog.com/cn/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是蓝色小朋友
+bio: 
 
 interests:
 - 模拟和混合信号集成电路
 
 education:
   courses:
-  - course: 清华大学，本科，2006
-    # institution: 
-    # year: 2006
-
+  - course: 博士
+    institution: 清华大学电子工程系
+    year: 2019-
+  - course: 学士
+    institution: 清华大学电子工程系
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wangxing.Tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -65,5 +67,5 @@ user_groups:
 - 团队
 ---
 
-热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。
+2019年清华本科毕业，得到学士学位，目前正在清华电子系攻读博士学位。2019年11月到2020年7月，在德州大学奥斯汀分校做访问学者。研究兴趣是混合信号集成电路设计，与高精度SAR ADC和DAC设计。已有多次流片经验。
 

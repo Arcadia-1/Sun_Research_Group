@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: B.S.
-    institution: Tsinghua University
-    year: 2015-2019
   - course: Ph.D.
     institution: Tsinghua University
     year: 2019-
+  - course: B.S.
+    institution: Tsinghua University
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

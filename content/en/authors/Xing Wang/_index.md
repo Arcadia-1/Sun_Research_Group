@@ -1,34 +1,36 @@
 ---
 # Display name
-title: 王兴
+title: Xing Wang
 
 # Username (this should match the folder name)
 authors:
 - Xing Wang
-
+ 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
-# - name: 
+# - name: Tsinghua University
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是蓝色小朋友
+bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- Mixed-signal IC design
 
 education:
   courses:
-  - course: 清华大学，本科，2006
-    # institution: 
-    # year: 2006
-
+  - course: Ph.D.
+    institution: Tsinghua University
+    year: 2019-
+  - course: B.S.
+    institution: Tsinghua University
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wangxing.Tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -62,8 +64,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- Team
 ---
 
-热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。热爱科研工作，对芯片设计有浓厚的科研兴趣。
+Xing Wang (Student Member, IEEE) received the B.S. degree from Tsinghua University, Beijing, China, in 2019, where he is currently pursuing the Ph.D. degree with Department of Electronic Engineering, Tsinghua University, Beijing, China. From November 2019 to June 2020, he was a Visiting Scholar with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interests include High accuracy low-power SAR analog-to-digital converter (ADC) and DAC designs.
 
