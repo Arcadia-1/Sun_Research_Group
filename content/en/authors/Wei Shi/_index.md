@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 施为
+title: Wei Shi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,16 +21,17 @@ role: 博士研究生
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- Mixed signal IC
 
 education:
   courses:
-  - course: 博士
+  - course: Ph.D.
     # institution: 
     # year: 2006
-  - course: 本科
+  - course: B.S.
     # institution: 
     # year: 2006
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +65,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队@UT Austin
+- Team@UT Austin
 ---
 
