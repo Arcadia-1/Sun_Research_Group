@@ -22,16 +22,15 @@ bio:
 
 interests:
 - 模拟和混合信号集成电路
-- 存内计算
-  
+
 education:
+  courses:
   - course: 博士
     institution: 德州大学奥斯汀分校
     year: 2017
   - course: 学士
     institution: 电子科技大学
     year: 2012
-
 
 
 # Social/Academic Networking
