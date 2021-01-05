@@ -74,7 +74,7 @@ user_groups:
 - 团队
 ---
 
-Jiaxin Liu received the B.S. degree from Shandong University, Jinan, China, in 2010, and the M.S. and Ph.D. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2013 and 2018, respectively. From 2015 to 2017, he was a Joint Ph.D. Student with the University of Texas (UT) at Austin, Austin, TX, USA. Since 2018，he joined Department of Electrical Engineering, Tsinghua University, Beijing, China, as a Post-Doctoral Researcher.
+Jiaxin Liu received the B.S. degree from Shandong University, Jinan, China, in 2010, and the M.S. and Ph.D. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2013 and 2018, respectively. From 2015 to 2017, he was a Joint Ph.D. Student with the University of Texas (UT) at Austin, Austin, TX, USA. Since 2018, he joined Department of Electrical Engineering, Tsinghua University, Beijing, China, as a Post-Doctoral Researcher.
 
 He was a recipient of the First Prize of Academic Scholarship in UESTC for the consecutive years from 2012 to 2015, the China National Scholarship in 2012, the First Prize of VeriSilicon Circuits Design Competition in 2015, and the China CSC Scholarship in 2015.
 
