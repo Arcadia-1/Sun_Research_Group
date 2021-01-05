@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨向兴
+title: Xiangxing Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,17 +21,19 @@ role: 博士研究生
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
-- 存内计算
+- Mixed Signal
+- In-Memory Computing
+
 
 education:
   courses:
-  - course: 博士
-    institution: 德州大学奥斯汀分校
+  - course: Ph.D. degree
+    institution: Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA.    
     year: 2017
-  - course: 学士
-    institution: 电子科技大学
+  - course: B.S. degree 
+    institution: Department of Electronic Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China    
     year: 2012
+
 
 
 # Social/Academic Networking
@@ -69,4 +71,4 @@ user_groups:
 - 团队@UT Austin
 ---
 
-杨向兴，2016年本科毕业于电子科技大学。目前在是德州大学奥斯汀分校在读博士。主要研究方向为用于边缘计算的模拟与混合信号芯片设计。
+Xiangxing Yang received the B.S. degree in electronics engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. He is currently pursuing the Ph.D. degree with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interest includes analog and mixed-signal circuit design for edge computing.
