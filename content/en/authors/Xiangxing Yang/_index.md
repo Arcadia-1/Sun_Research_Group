@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Wenjuan Guo
+title: 杨向兴
 
 # Username (this should match the folder name)
 authors:
-- Wenjuan Guo
+- Xiangxing Yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Analog/Mixed-Signal Design Engineer
+role: Ph.D. Student
 
-# Organizations/Affiliations
-organizations:
-- name: Apple
-  url: ""
+# # Organizations/Affiliations
+# organizations:
+# - name: 
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
 - Mixed Signal
+- In-Memory Computing
 
+  
 education:
-  courses:
   - course: Ph.D. degree
-    institution: Department of Electrical and Computer Engineering, the University of Texas at Austin, Austin, TX, USA
-    year: 2016
-  - course: B.S. degree
-    institution: Department of Microelectronics and Nanoelectronics, Tsinghua University, Beijing, China
-    year: 2011
-
+    institution: Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA.    
+    year: 2017
+  - course: B.S. degree 
+    institution: Department of Electronic Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China    
+    year: 2012
 
 
 
@@ -39,10 +39,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:yangxx [at] utexas [dot] edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -59,7 +59,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:wjguo [at] utexas [dot] edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- 团队@UT Austin
 ---
 
-郭文娟， 2011年于清华大学微纳电子系获得学士学位。在清华大学期间，她取得优秀的学业成绩并且获得多项奖学金。在博士期间她连续两年获得德州仪器全额奖学金。2016年，她于德州大学奥斯汀分校电子和计算机工程系获得博士学位。目前她就职于苹果公司担任模拟和混合信号集成电路设计工程师。她的主要研究方向是模拟、混合信号，和射频集成电路设计。
+Xiangxing Yang received the B.S. degree in electronics engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. He is currently pursuing the Ph.D. degree with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interest includes analog and mixed-signal circuit design for edge computing.
