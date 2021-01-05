@@ -68,4 +68,4 @@ user_groups:
 - Alumni
 ---
 
-郭文娟， 2011年于清华大学微纳电子系获得学士学位。在清华大学期间，她取得优秀的学业成绩并且获得多项奖学金。在博士期间她连续两年获得德州仪器全额奖学金。2016年，她于德州大学奥斯汀分校电子和计算机工程系获得博士学位。目前她就职于苹果公司担任模拟和混合信号集成电路设计工程师。她的主要研究方向是模拟、混合信号，和射频集成电路设计。
+Wenjuan Guo received her B.S. degree from Department of Microelectronics and Nanoelectronics at Tsinghua University in 2011. While at Tsinghua, she achieved excellent academic performance, winning several scholarships. She was awarded Texas Instruments PhD Fellowship for two consecutive years. She received PhD degree from Department of Electrical and Computer Engieering at UT Austin in 2016. She is currently an Analog&Mixed-Signal Circuit Design Engineer at Apple. Her current research is focused on analog, mixed-signal, and RF integrated circuits design.
