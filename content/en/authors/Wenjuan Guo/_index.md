@@ -30,9 +30,7 @@ education:
     year: 2016
   - course: B.S. degree
     institution: Department of Microelectronics and Nanoelectronics, Tsinghua University, Beijing, China
-    year: 2011
-
-
+    year: 2010
 
 
 # Social/Academic Networking

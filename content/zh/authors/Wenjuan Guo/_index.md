@@ -28,7 +28,7 @@ education:
   - course: 工程科学博士
     institution: 德州大学奥斯汀分校电子和计算机工程系
     year: 2016
-   - course: 学士
+  - course: 学士
     institution: 清华大学微纳电子系
     year: 2011
 
