@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 徐振凯
+title: Chen-Kai Hsu
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,26 @@ authors:
 superuser: false
 
 # Role/position
-role: 集成电路工程师
+role: IC Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: 亚德诺半导体
+- name: ADI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
-- 高性能数据转换器
+- Mixed-signal ICs
+- High-performance Data Converters
+
 
 education:
   courses:
-  - course: Ph.D. degree
-    institution: The University of Texas at Austin, Austin, TX, USA
+  - course: 博士
+    institution: 德克萨斯大学奥斯丁分校
     year: 2020
-
 
 
 
@@ -65,7 +65,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Aluminum
+- 已毕业
 ---
 
-Chen-Kai Hsu received the Ph.D. degree from the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA in 2020. He is currently an IC design engineer at ADI. His current research focuses on high-performance data converters.
+徐振凯，博士毕业于德克萨斯大学奥斯丁分校。目前他就职于亚德诺半导体担任集成电路工程师。他现在主要的研究方向是高性能数据转换器。
