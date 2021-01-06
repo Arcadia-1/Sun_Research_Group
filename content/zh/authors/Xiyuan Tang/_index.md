@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: postdoctoral researcher
+role: 博士后
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,7 +21,7 @@ role: postdoctoral researcher
 bio:
 
 interests:
-- Mix-signal IC design
+- 混合信号集成电路设计
 
 education:
   courses:
@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- 团队@UT Austin
 ---
 
 Xiyuan Tang is currently a postdoctoral researcher at University of Texas at Austin, co-advised by Prof. Nan Sun and Prof. David Z. Pan. Xiyuan received the B.Sc. degree (Hons.) from the School of Microelectronics, Shanghai Jiao Tong University, Shanghai, China, in 2012, and the M.S. and Ph.D. degree in electrical engineering from The University of Texas at Austin, Austin, TX, USA, in 2014 and 2019 respectively. From 2014 to 2017, he was a Design Engineer with Silicon Laboratories, Austin, TX, where he was involved in the RF receiver design.
