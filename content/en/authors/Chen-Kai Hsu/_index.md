@@ -27,9 +27,10 @@ interests:
 
 education:
   courses:
-  - course: 博士
-    institution: 德克萨斯大学奥斯丁分校
+  - course: Ph.D. degree
+    institution: The University of Texas at Austin, Austin, TX, USA
     year: 2020
+
 
 
 
@@ -65,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- Alumni
 ---
 
-徐振凯，博士毕业于德克萨斯大学奥斯丁分校。目前他就职于亚德诺半导体担任集成电路工程师。他现在主要的研究方向是高性能数据转换器。
+Chen-Kai Hsu received the Ph.D. degree from the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA in 2020. He is currently an IC design engineer at ADI. His current research focuses on high-performance data converters.
