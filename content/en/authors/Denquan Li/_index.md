@@ -21,8 +21,9 @@ organizations:
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
-- 高速模数转换器
+- Mixed Signal IC Design
+- High-speed ADC
+
 
 
 
