@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈龙
+title: Long Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,30 @@ authors:
 superuser: false
 
 # Role/position
-role: 工程师
+role: Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: 谷歌
+- name: Google
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 混合信号集成电路
+- Mixed Signal Circuits Design
 
 
 
 education:
   courses:
-  - course: 工程科学博士
-    institution: 德州大学奥斯汀分校电子工程系
+  - course: Ph.D. degree
+    institution: University of Texas at Austin
     year: 2016
-  - course: 学士
-    institution: 清华大学微纳电子学系
+  - course: B.S. degree 
+    institution: the Department of Microelectronics and Nanoelectronics, Tsinghua University, Beijing, China
     year: 2011
+
 
 
 
@@ -72,4 +73,4 @@ user_groups:
 - 已毕业
 ---
 
-陈龙，2011年本科毕业于清华大学微纳电子系，2016年博士毕业于德州大学奥斯汀分校电子与计算机工程系。在博士期间，他曾经在TSMC和Silicon Labs公司担任暑期实习工程师。博士毕业之后，他加入Broadcom公司担任集成电路设计工程师。目前他就职于Google公司。他的研究兴趣是运用统计信号处理方法提高集成电路的精度。
+Long Chen received the B.S. degree from the Institute of Microelectronics, Tsinghua University, Beijing, China, in 2011, and the Ph.D. degree from The University of Texas at Austin, Austin, TX, USA, in 2016. He was an Intern with the Silicon Laboratories and Taiwan Semiconductor Manufacturing Company. After graduation, he joined Broadcom as a Staff Design Engineer. He is currently with Google. His research interest is applying statistical signal processing techniques to improve integrated circuits’ resolution.
