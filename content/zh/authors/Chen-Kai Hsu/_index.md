@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course:博士
+  - course: 博士
     institution: 德克萨斯大学奥斯丁分校
     year: 2020
 
