@@ -1,48 +1,55 @@
 ---
 # Display name
-title: Xiyuan Tang
+title: 李绍岚
 
 # Username (this should match the folder name)
 authors:
-- Xiyuan Tang
+- Shaolan Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: postdoctoral researcher
+role: 佐治亚理工助理教授
 
-# # Organizations/Affiliations
-# organizations:
-# - name: 
-#   url: ""
+# Organizations/Affiliations
+organizations:
+- name: 佐治亚理工学院
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
-- Mix-signal IC
+- 模拟和混合信号集成电路
+- 深度学习硬件加速
+- 片上超声
+- 设计自动化
+
+
+
 
 education:
   courses:
-  - course: Ph.D.
-    institution: University of Texas at Austin
-    year: 2019
-  - course: M.E.
-    institution: University of Texas at Austin
-    year: 2014
-  - course: B.S.
-    institution: Shanghai Jiao Tong University
+  - course: 工程科学博士
+    institution: 德克萨斯大学奥斯丁分校
+    year: 2018
+  - course: 学士（一级荣誉）
+    institution: 香港科技大学
     year: 2012
+
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:shaolan.li [at] ece [dot] gatech [dot] edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,7 +74,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team@UT Austin
+- 已毕业
 ---
 
-Xiyuan Tang is currently a postdoctoral researcher at University of Texas at Austin, co-advised by Prof. Nan Sun and Prof. David Z. Pan. Xiyuan received the B.Sc. degree (Hons.) from the School of Microelectronics, Shanghai Jiao Tong University, Shanghai, China, in 2012, and the M.S. and Ph.D. degree in electrical engineering from The University of Texas at Austin, Austin, TX, USA, in 2014 and 2019 respectively. From 2014 to 2017, he was a Design Engineer with Silicon Laboratories, Austin, TX, where he was involved in the RF receiver design.
+李绍岚， 2012年本科毕业于香港科技大学， 2018年博士毕业于德克萨斯大学奥斯丁分校。在校期间获得工学院奖学金，IEEE固态电路学会博士生成就奖等荣誉。2018-2019留校担任博士后研究员。他于2019年入职佐治亚理工学院担任助理教授。李博士是CICC, DAC等会议的技术委员会成员。他担任JSSC, TCAS-I, TCAS-II, Sensor Journal等多个期刊的审稿人。
+研究组主页：GaTech Analog Mixed-Signal Microsystems and Applications (GAMMA) Group
+
