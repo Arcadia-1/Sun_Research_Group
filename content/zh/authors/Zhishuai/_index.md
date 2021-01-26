@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 高子杰
+title: 直率
 
 # Username (this should match the folder name)
 authors:
-- Jijie Gao copy
+- Zhishuai
 
 # Is this the primary user of the site?
 superuser: false
