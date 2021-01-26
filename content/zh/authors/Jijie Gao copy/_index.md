@@ -4,7 +4,7 @@ title: 高子杰
 
 # Username (this should match the folder name)
 authors:
-- Zijie Gao copy
+- Jijie Gao copy
 
 # Is this the primary user of the site?
 superuser: false
