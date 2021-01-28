@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 立即张智帅aaa
+title: 张智帅
 
 # Username (this should match the folder name)
 authors:
-- Zhishuai Zhang222
+- Zhishuai Zhang
 
 # Is this the primary user of the site?
 superuser: false
