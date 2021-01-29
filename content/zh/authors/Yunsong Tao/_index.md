@@ -64,7 +64,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- 团队
 ---
 
 我目前是直博零年级，研究方向是模拟与混合信号集成电路芯片设计。

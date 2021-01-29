@@ -64,7 +64,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- 团队
 ---
 
 2019年清华本科毕业，得到学士学位，目前正在清华电子系攻读博士学位。2019年11月到2020年7月，在德州大学奥斯汀分校做访问学者。研究兴趣是混合信号集成电路设计，与高精度SAR ADC和DAC设计。已有多次流片经验。

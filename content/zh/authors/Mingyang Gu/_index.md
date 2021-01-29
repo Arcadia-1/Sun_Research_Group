@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- 团队
 ---
 
 古明阳2020年6月毕业于清华大学电子工程系，2020年9月起于清华大学电子工程系攻读博士学位。他主要的研究方向为高速模数转换器以及数字辅助模数转换器设计。
