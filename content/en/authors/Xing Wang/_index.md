@@ -64,7 +64,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Student
 ---
 
 Xing Wang (Student Member, IEEE) received the B.S. degree from Tsinghua University, Beijing, China, in 2019, where he is currently pursuing the Ph.D. degree with Department of Electronic Engineering, Tsinghua University, Beijing, China. From November 2019 to June 2020, he was a Visiting Scholar with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interests include High accuracy low-power SAR analog-to-digital converter (ADC) and DAC designs.

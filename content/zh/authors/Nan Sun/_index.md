@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 清华大学长聘教授
+role: 长聘教授
 
 # # Organizations/Affiliations
 organizations:

@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Student
 ---
 
 Mingyang Gu received the bachelor's degree at June, 2020, from the department of electronic engineering, Tsinghua university. He has been pursuing the doctor's degree since September, 2020. His main research area includes high speed analog-to-digital converters and digitally assisted analog-to-digital converters.

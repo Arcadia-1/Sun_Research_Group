@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Student
 ---
 
 Zhishuai Zhang (S’19) is currently pursing the B.S. degree, while is going to be a Ph.D. student.

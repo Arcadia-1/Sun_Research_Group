@@ -18,17 +18,19 @@ role: 博士研究生
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是红色小朋友
+bio:
 
 interests:
 - 模拟和混合信号集成电路
 
 education:
   courses:
-  - course: 清华大学，本科，2021
-    # institution: 
-    # year: 2006
-
+  - course: 本科
+    institution: 清华大学新雅书院，电子信息科学与技术专业
+    year: 2016.8-
+  - course: 本科交换
+    institution: 牛津大学圣彼得学院，物理专业
+    year: 2017.9-2018.6
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,16 +64,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 研究生
 ---
 
-1. 芯片设计和设计自动化相关方向的博士学位
-
-2.热爱科研工作，对芯片设计有浓厚的科研兴趣
-
-3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
-
-4.心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
-
-5.有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
+我目前是直博零年级，研究方向是模拟与混合信号集成电路芯片设计。
 
