@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Professor in UESTC
 
 # # Organizations/Affiliations
 # organizations:
@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher
+- Alumni
 ---
 
 Jiaxin Liu received the B.S. degree from Shandong University, Jinan, China, in 2010, and the M.S. and Ph.D. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2013 and 2018, respectively. From 2015 to 2017, he was a Joint Ph.D. Student with the University of Texas (UT) at Austin, Austin, TX, USA. Since 2018, he joined Department of Electrical Engineering, Tsinghua University, Beijing, China, as a Post-Doctoral Researcher.

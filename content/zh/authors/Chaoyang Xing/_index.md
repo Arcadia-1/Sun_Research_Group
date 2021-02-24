@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- 团队
 ---
 
 邢朝阳，本科四年级学生，就读于清华大学电子工程系，主要研究方向为过采样模数转换器芯片的设计，尤其是对低功耗高精度类型的研究。

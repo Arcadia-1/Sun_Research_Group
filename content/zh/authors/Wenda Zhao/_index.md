@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 现职业
+role: 
 
 # # Organizations/Affiliations
 # organizations:
@@ -18,14 +18,14 @@ role: 现职业
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 这里是蓝色小朋友
+bio: 
 
 interests:
 - 模拟和混合信号集成电路
 
 education:
   courses:
-  - course: 清华大学，本科，2006
+  - course: 
     # institution: 
     # year: 2006
 
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: ''  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -65,4 +65,3 @@ user_groups:
 - 已毕业
 ---
 
-Jiaxin Liu (S’13–M’19) received the B.S. degree from Shandong University, Jinan, China, in 2010, and the M.S. and Ph.D. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2013 and 2018, respectively.,From 2015 to 2017, he was a Visiting Ph.D. Student with the Department of Electrical and Computer Engineering, The University of Texas (UT) at Austin, Austin, TX, USA. He is currently a Post-Doctoral Researcher with Tsinghua University, Beijing, China. His research interest is on analog and mixed-signal integrated circuits design.,Dr. Liu was a recipient of the First Prize of Academic Scholarship in UESTC for the consecutive years from 2012 to 2015, the China National Scholarship in 2012, the First Prize of VeriSilicon Circuits Design Competition in 2015, and the China CSC Scholarship in 2015.(Based on document published on 6 March 2019).

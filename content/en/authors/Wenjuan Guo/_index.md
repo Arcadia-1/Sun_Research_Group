@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Analog/Mixed-Signal Design Engineer
+role: Analog/Mixed-Signal Design Engineer in Apple
 
 # Organizations/Affiliations
 organizations:

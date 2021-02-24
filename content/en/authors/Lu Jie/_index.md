@@ -72,6 +72,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher
+- Research Fellow
 ---
 Lu Jie received the B.Eng. degree from the Zhejiang University, China, in 2017, and received Ph.D. degree from the University of Michigan, US, in 2021. Since then, he is currently with Tsinghua University, China, as an Assistant Researcher. His main research interest is on Mixed-Signal Integrated Circuit Design, including hybrid-architecture ADC, high-speed data interface, and wireless transceiver. 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: IC Engineer
+role: ADI IC Engineer
 
 # Organizations/Affiliations
 organizations:
