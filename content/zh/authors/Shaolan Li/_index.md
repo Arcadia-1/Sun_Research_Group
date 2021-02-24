@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 助理教授
+role: 佐治亚理工学院助理教授
 
 # Organizations/Affiliations
 organizations:

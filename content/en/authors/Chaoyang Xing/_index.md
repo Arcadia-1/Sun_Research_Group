@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 沈林晓
+title: Chaoyang Xing
 
 # Username (this should match the folder name)
 authors:
-- Linxiao Shen
+- Chaoyang Xing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 北京大学助理教授
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,17 +21,14 @@ role: 北京大学助理教授
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
-- 模拟集成电路与系统
+- Mixed Signal
 
 education:
   courses:
-  - course: 工程科学博士
-    institution: 美国德克萨斯大学奥斯丁分校电子与计算机工程系
-    year: 2019
-  - course: 学士
-    institution: 复旦大学微电子学院
-    year: 2014
+  - course: B.S.
+    institution: the Department of Electronic Engineering, Tsinghua University, Beijing, China
+    year: 2021
+
 
 
 # Social/Academic Networking
@@ -41,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lynn.shenlx@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:xingcy17 [at] mails [dot] Tsinghua [dot] edu [dot] cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -66,8 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- Student
 ---
 
-沈林晓，于2014年自复旦大学微电子学院获得本科学士学位，于2019年自美国UT Austin电子与计算机工程学院获得博士学位。2019年-2020年期间，任职于美国芯科科技公司（Silicon Laboratories Inc，）。2021年至今，在北京大学担任助理教授。
-主要研究方向为各种模数转换器（ADC）芯片的设计和传感器前端接口系统的设计。在ISSCC和JSSC上发表超过10篇论文，并且担任JSSC、TCAS-I/II等顶级期刊的审稿人。
+Chaoyang Xing, a fourth year undergraduate, studied in the Department of electronic engineering, Tsinghua University. His main research direction is the design of oversampling data converter, especially the kinds of low power consumption and high precision.

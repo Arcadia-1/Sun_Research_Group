@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士后
+role: 电子科技大学百人计划专家，研究员
 
 # # Organizations/Affiliations
 # organizations:
@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究者
+- 已毕业
 ---
 
 刘佳欣，本科毕业于山东大学、硕士博士毕业于电子科技大学，2015年至2017年作为国家公派联合培养博士研究生在美国德州大学奥斯汀分校学习。2018年博士毕业后至今，在清华大学电子工程系从事博士后研究工作。

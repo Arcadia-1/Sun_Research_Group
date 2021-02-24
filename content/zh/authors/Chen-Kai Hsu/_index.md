@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 集成电路工程师
+role: ADI集成电路工程师
 
 # Organizations/Affiliations
 organizations:
