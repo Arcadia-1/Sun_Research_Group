@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 谷歌工程师
+role: 谷歌公司工程师
 
 # Organizations/Affiliations
 organizations:

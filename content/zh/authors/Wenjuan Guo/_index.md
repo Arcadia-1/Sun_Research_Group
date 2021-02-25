@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 苹果模拟和混合信号集成电路设计工程师
+role: 苹果公司模拟和混合信号集成电路设计工程师
 
 # Organizations/Affiliations
 organizations:
