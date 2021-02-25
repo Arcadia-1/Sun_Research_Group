@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 赵闻达
+title: Wenda Zhao
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 苹果公司模拟混合集成电路设计工程师
+role: Analog and mixed-signal IC design engineer in Apple Inc.
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,18 +21,18 @@ role: 苹果公司模拟混合集成电路设计工程师
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- Analog and Mixed-signal IC
 
 education:
   courses:
-  - course: 博士
-    institution: 德州大学奥斯汀分校 电气与计算机工程系
+  - course: Ph.D.
+    institution: Department of Electrical and Computer Engineering, The University of Texas at Austin
     year: 2020
-  - course: 硕士
-    institution: 德州大学奥斯汀分校 电气与计算机工程系
+  - course: Master of Science
+    institution: Department of Electrical and Computer Engineering, The University of Texas at Austin
     year: 2019
-  - course: 学士
-    institution: 北京大学 微电子学系-2016
+  - course: Bachelor of Science
+    institution: Department of Microelectronics - Peking University
     year: 2016
 
 
@@ -68,7 +68,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- Alumni
 ---
 
-赵闻达，2012年于北京大学信息科学技术学院微电子学系获得学士学位，后分别于2019、2020年于德州大学奥斯汀分校电气与计算机工程系获得硕士、博士学位。攻读博士学位期间获得IEEE固态电路学会博士生成就奖。目前他就职于苹果公司担任模拟和混合信号集成电路设计工程师。他的主要研究方向是模拟和混合集成电路设计。
+Wenda Zhao received the B.S. degree from Peking University, Beijing, China, in 2016, and the M.S. and Ph.D. degree from the University of Texas at Austin, Austin, TX, USA, in 2019 and 2020, respectively. He is currently with Apple Inc, Austin, TX, USA. His current research interests include power-efficient sensor readouts and data converters, ultra-low-power compressive sensing techniques for IoT applications.
+Dr. Zhao received May-4th Scholarship in 2015 and the Outstanding Undergraduate Thesis Award in 2016, both from Peking University. He also received Analog Devices Outstanding Student Designer Award in 2018 and the IEEE SSCS Predoctoral Achievement Award from 2019-2020. He is a reviewer of the Transactions on Circuits and System I, Regular Papers.
