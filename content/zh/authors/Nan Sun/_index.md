@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nansun@tsinghua.edu.cn"
+email: "nansun [at] tsinghua [dot] edu [dot] cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
