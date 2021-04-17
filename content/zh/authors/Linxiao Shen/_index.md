@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- 已毕业博士
 ---
 
 沈林晓，于2014年自复旦大学微电子学院获得本科学士学位，于2019年自美国UT Austin电子与计算机工程学院获得博士学位。2019年-2020年期间，任职于美国芯科科技公司（Silicon Laboratories Inc，）。2021年至今，在北京大学担任助理教授。

@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- 已毕业博士
 ---
 
 赵闻达，2012年于北京大学信息科学技术学院微电子学系获得学士学位，后分别于2019、2020年于德州大学奥斯汀分校电气与计算机工程系获得硕士、博士学位。攻读博士学位期间获得IEEE固态电路学会博士生成就奖。目前他就职于苹果公司担任模拟和混合信号集成电路设计工程师。他的主要研究方向是模拟和混合集成电路设计。

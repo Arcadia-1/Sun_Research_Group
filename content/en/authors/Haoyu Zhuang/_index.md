@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visiting Scholar
+- Jointly Supervised PhD Students Graduated
 ---
 
 Dr. Zhuang was a recipient of the Chinese National Scholarship in 2014, the Chinese CSC Scholarship in 2014, the Chinese National Encouragement Scholarship in 2009, the School Principal Scholarship in 2011, the name of the Best Postgraduate Student in 2011, and the School First-class Scholarship in 2010, 2012, and 2014. During his study in Xidian University, he ranked the first in the school for three consecutive years of 2010-2012. Up to now, he has published over 20 journal and conference papers, including IEEE JSSC, IEEE TCAS1, IEEE TCAS2, IEEE TVLSI, and so on.

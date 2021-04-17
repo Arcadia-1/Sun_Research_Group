@@ -70,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students Graduated
 ---
 
 Long Chen received the B.S. degree from the Institute of Microelectronics, Tsinghua University, Beijing, China, in 2011, and the Ph.D. degree from The University of Texas at Austin, Austin, TX, USA, in 2016. He was an Intern with the Silicon Laboratories and Taiwan Semiconductor Manufacturing Company. After graduation, he joined Broadcom as a Staff Design Engineer. He is currently with Google. His research interest is applying statistical signal processing techniques to improve integrated circuits’ resolution.

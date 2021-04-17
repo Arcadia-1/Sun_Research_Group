@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students Graduated
 ---
 
 Chen-Kai Hsu received the Ph.D. degree from the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA in 2020. He is currently an IC design engineer at ADI. His current research focuses on high-performance data converters.

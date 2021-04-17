@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students Graduated
 ---
 
 Wenda Zhao received the B.S. degree from Peking University, Beijing, China, in 2016, and the M.S. and Ph.D. degree from the University of Texas at Austin, Austin, TX, USA, in 2019 and 2020, respectively. He is currently with Apple Inc, Austin, TX, USA. His current research interests include power-efficient sensor readouts and data converters, ultra-low-power compressive sensing techniques for IoT applications.

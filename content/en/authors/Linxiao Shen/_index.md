@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- PhD Students Graduated
 ---
 Linxiao Shen received the B.S. degree from Fudan University, Shanghai, China in 2014, and the Ph.D. degree from the University of Texas at Austin, TX, USA, in 2019. He is currently an assistant professor in Peking University, Beijing, China. His current research involves the design of energy-efficient sensor readout circuits and high-performance analog/mixed-signal circuits and systems. 
 Dr. Shen was a recipient of the IEEE Solid-State Circuits Society Predoctoral Achievement Award in 2019, the Graduate Continuing Fellowship from UT Austin in 2019, the Samsung Fellowship in 2011, and the National scholarship in 2012. He serves as a reviewer for the IEEE Journal of Solid-State Circuits, IEEE Transactions on Circuits and System I, Regular Papers, IEEE Transactions on Circuits and System II: Express Briefs, IEEE Transactions on Very Large-Scale Integration (VLSI) Systems.

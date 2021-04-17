@@ -65,7 +65,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students Graduated
 ---
 
 Wenjuan Guo received her B.S. degree from Department of Microelectronics and Nanoelectronics at Tsinghua University in 2011. While at Tsinghua, she achieved excellent academic performance, winning several scholarships. She was awarded Texas Instruments PhD Fellowship for two consecutive years. She received PhD degree from Department of Electrical and Computer Engieering at UT Austin in 2016. She is currently an Analog&Mixed-Signal Circuit Design Engineer at Apple. Her current research is focused on analog, mixed-signal, and RF integrated circuits design.

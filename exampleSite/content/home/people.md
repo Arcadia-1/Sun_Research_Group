@@ -18,7 +18,7 @@ subtitle = ""
                  "Grad Students",
                  "Administration",
                  "Visitors",
-                 "Alumni"]
+                 "PhD Students Graduated"]
 
 [design]
   # Show user's social networking links? (true/false)

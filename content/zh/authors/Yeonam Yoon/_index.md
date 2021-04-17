@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Intel
 
 # Organizations/Affiliations
 organizations:
-- name: 英特尔
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

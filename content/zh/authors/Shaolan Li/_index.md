@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- 已毕业博士
 ---
 
 李绍岚， 2012年本科毕业于香港科技大学， 2018年博士毕业于德克萨斯大学奥斯丁分校。在校期间获得工学院奖学金，IEEE固态电路学会博士生成就奖等荣誉。2018-2019留校担任博士后研究员。他于2019年入职佐治亚理工学院担任助理教授。李博士是CICC, DAC等会议的技术委员会成员。他担任JSSC, TCAS-I, TCAS-II, Sensor Journal等多个期刊的审稿人。
