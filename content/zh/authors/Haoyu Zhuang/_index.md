@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 访问学者
+- 已毕业联合培养博士
 ---
 
 庄浩宇，本科、博士均毕业于西安电子科技大学。2014-2016年，在德州大学奥斯汀分校学习。现在在电子科技大学任助理教授。研究方向为各类高性能模拟电路，包括：流水线模数转换器、逐次逼近型模数转换器、带隙基准、物理不可克隆函数等。目前已发表论文20余篇，包括IEEE JSSC、IEEE TCAS1、IEEE TCAS2、IEEE TVLSI等。

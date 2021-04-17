@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业
+- 已毕业联合培养博士
 ---
 
 刘佳欣，本科毕业于山东大学、硕士博士毕业于电子科技大学，2015年至2017年作为国家公派联合培养博士研究生在美国德州大学奥斯汀分校学习。2018年博士毕业后至今，在清华大学电子工程系从事博士后研究工作。

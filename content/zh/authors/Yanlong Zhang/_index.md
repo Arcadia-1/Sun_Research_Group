@@ -1,39 +1,28 @@
 ---
 # Display name
-title: 李登全
+title: 张岩龙
 
 # Username (this should match the folder name)
 authors:
-- Denquan Li
+- Yanlong Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 西安电子科技大学华山菁英副教授
+role: 西安交通大学助理教授
 
 # Organizations/Affiliations
 organizations:
-- name: 西安电子科技大学
+- name: 西安交通大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- 模拟和混合信号集成电路
-- 高速模数转换器
 
 
 
-education:
-  courses:
-  - course: 工学博士
-    institution: 西安电子科技大学
-    year: 2018
-  - course: 学士
-    institution: 西安电子科技大学
-    year: 2012
 
 
 
@@ -45,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dqli [at] xidian [dot] edu [dot] cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -73,5 +62,3 @@ user_groups:
 - 已毕业联合培养博士
 ---
 
-
-李登全，西安电子科技大学华山菁英副教授。2012年本科毕业于西安电子科技大学微电子学专业，2016年国家公派美国德克萨斯大学奥斯汀分校（UT-Austin）博士联合培养，2018年获西安电子科技大学微电子学与固体电子学工学博士学位。主要从事模拟及混合信号集成电路设计、超高速模拟前端、数据转换器等方面研究。主持国家自然科学基金青年项目，中国博士后基金一等资助，陕西省教育厅科研计划等。发表学术论文近20篇，包括IEEE JSSC、IEEE CICC、IEEE TCAS-II等。获“陕西省科技工作者创新创业大赛”金奖，指导学生获“中国研究生创芯大赛”全国一等奖。
