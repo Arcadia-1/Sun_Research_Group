@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: ADI
 
 # Organizations/Affiliations
 organizations:
