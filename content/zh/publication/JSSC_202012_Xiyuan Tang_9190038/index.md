@@ -15,22 +15,18 @@ authors:
 #date: "2020-03-12T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-09T00:00:00Z"
+publishDate: "2020-09-09"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+
 publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "IEEE Journal of Solid-State Circuits ( Volume: 55, Issue: 12, Dec. 2020) "
-publication_short: "JSSC"
-
-abstract: This article presents a second-order noise-shaping (NS) successive approximation register (SAR) analog-to-digital converter (ADC) with a process, voltage, and temperature (PVT)-robust closed-loop dynamic amplifier. The proposed closed-loop dynamic amplifier combines the merits of closed-loop architecture and dynamic operation, realizing robustness, high accuracy, and high energy-efficiency simultaneously. It is embedded in the loop filter of an NS SAR design, enabling the first fully dynamic NS-SAR ADC that realizes sharp noise transfer function (NTF) while not requiring any gain calibration. Fabricated in 40-nm CMOS technology, the prototype ADC achieves an SNDR of 83.8 dB over a bandwidth of 625 kHz while consuming only 107 μW. It results in an SNDR-based Schreier figure-of-merit (FoM) of 181.5 dB.
 
 # Summary. An optional shortened abstract.
 summary: JSSC, 2020 (ISSCC invited submission)
+
+abstract: This article presents a second-order noise-shaping (NS) successive approximation register (SAR) analog-to-digital converter (ADC) with a process, voltage, and temperature (PVT)-robust closed-loop dynamic amplifier. The proposed closed-loop dynamic amplifier combines the merits of closed-loop architecture and dynamic operation, realizing robustness, high accuracy, and high energy-efficiency simultaneously. It is embedded in the loop filter of an NS SAR design, enabling the first fully dynamic NS-SAR ADC that realizes sharp noise transfer function (NTF) while not requiring any gain calibration. Fabricated in 40-nm CMOS technology, the prototype ADC achieves an SNDR of 83.8 dB over a bandwidth of 625 kHz while consuming only 107 μW. It results in an SNDR-based Schreier figure-of-merit (FoM) of 181.5 dB.
+
+# Publication name and optional abbreviated publication name.
+publication: "IEEE Journal of Solid-State Circuits ( Volume: 55, Issue: 12, Dec. 2020) "
 
 tags:
 - δσ modulator
@@ -50,9 +46,9 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: ''
+#   focal_point: ""
+#   preview_only: false
 
 ---
