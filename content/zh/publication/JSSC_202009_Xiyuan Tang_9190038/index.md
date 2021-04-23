@@ -1,5 +1,6 @@
 ---
 title: A 13.5-ENOB, 107-μW Noise-Shaping SAR ADC With PVT-Robust Closed-Loop Dynamic Amplifier
+
 authors:
 - Xiyuan Tang
 - Xiangxing Yang
@@ -13,8 +14,7 @@ authors:
 - David Z. Pan
 - Nan Sun
 
-
-publishDate: 2020-09-09
+publishDate: "2020-09-09"
 
 summary: JSSC, 2020 (ISSCC invited submission)
 
@@ -22,7 +22,7 @@ abstract: This article presents a second-order noise-shaping (NS) successive app
 
 publication_types: ["2"]
 
-publication: "IEEE Journal of Solid-State Circuits ( Volume: 55, Issue: 12, Dec. 2020) "
+publication: "IEEE Journal of Solid-State Circuits ( Volume: 55, Issue: 12, Dec. 2020)"
 
 tags:
 - δσ modulator
@@ -30,20 +30,10 @@ tags:
 - closed-loop
 - dynamic amplifier
 - noise shaping (NS)
-- process, voltage, and temperature (PVT)-robust
+- process, voltage, and temperature (PVT)-robust,
 - successive approximation register (SAR)
-
 
 links:
 - name: IEEE Xplore
   url: https://ieeexplore.ieee.org/document/9190038/
-
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: ''
-#   focal_point: ""
-#   preview_only: false
-
 ---
