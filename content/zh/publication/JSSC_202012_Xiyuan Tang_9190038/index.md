@@ -1,5 +1,5 @@
 ---
-title: "A 13.5-ENOB, 107-μW Noise-Shaping SAR ADC With PVT-Robust Closed-Loop Dynamic Amplifier"
+title: A 13.5-ENOB, 107-μW Noise-Shaping SAR ADC With PVT-Robust Closed-Loop Dynamic Amplifier
 authors:
 - Xiyuan Tang
 - Xiangxing Yang
@@ -14,7 +14,7 @@ authors:
 - Nan Sun
 
 
-publishDate: "2020-09-09"
+publishDate: 2020-09-09
 
 summary: JSSC, 2020 (ISSCC invited submission)
 
