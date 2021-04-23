@@ -1,5 +1,5 @@
 ---
-title: A 0.7-V 0.6- $\mu \text{W
+title: A 0.7-V 0.6-μW 100-kS/s Low-Power SAR ADC With Statistical Estimation-Based Noise Reduction
 
 authors:
 - Long Chen

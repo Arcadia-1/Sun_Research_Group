@@ -1,5 +1,5 @@
 ---
-title: A 0.029-mm2 17-fJ/Conversion-Step Third-Order CT  $\Delta\Sigma$  ADC With a Single OTA and Second-Order Noise-Shaping SAR Quantizer
+title: A 0.029-mm2 17-fJ/Conversion-Step Third-Order CT  ΔΣ  ADC With a Single OTA and Second-Order Noise-Shaping SAR Quantizer
 
 authors:
 - Jiaxin Liu

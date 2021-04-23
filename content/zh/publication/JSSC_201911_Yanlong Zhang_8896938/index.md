@@ -1,5 +1,5 @@
 ---
-title: A Fractional- $N$  PLL With Space–Time Averaging for Quantization Noise Reduction
+title: A Fractional- N PLL With Space–Time Averaging for Quantization Noise Reduction
 
 authors:
 - Yanlong Zhang
