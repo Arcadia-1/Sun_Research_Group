@@ -11,7 +11,6 @@ title = "做世界一流芯片"
 hero_media = "FOM.jpg"
 
 
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -34,11 +33,20 @@ hero_media = "FOM.jpg"
   
   # Text color (true=light or false=dark).
   text_color_light = true
-[[cta]]
-cta_label = "See our JSSC and ISSCC publications"
-cta_url = "https://www.sunresearchgroup.top/zh/publication/"
-cta_icon_pack = "fas"
-cta_icon = "graduation-cap"
+
+[cta]
+  url = "https://www.sunresearchgroup.top/zh/publication/"
+  label = "See our JSSC and ISSCC publications"
+  icon_pack = "fas"
+  icon = "graduation-cap"
+  
+[cta_alt]
+  url = "https://sourcethemes.com/academic/"
+  label = "View Documentation"
+
+# Note. An optional note to show underneath the links.
+[cta_note]
+  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest releaseV</a>'
 
 +++
 
