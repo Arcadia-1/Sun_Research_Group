@@ -40,13 +40,13 @@ hero_media = "FOM.jpg"
   icon_pack = "fas"
   icon = "graduation-cap"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+# [cta_alt]
+#  url = "https://sourcethemes.com/academic/"
+#  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest releaseV</a>'
+# [cta_note]
+#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest releaseV</a>'
 
 +++
 
