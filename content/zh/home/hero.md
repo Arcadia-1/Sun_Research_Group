@@ -10,7 +10,7 @@ title = "做世界一流芯片"
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
 
-[cta]
+[[cta]]
 cta_label = "See our JSSC and ISSCC publications"
 cta_url = "https://www.sunresearchgroup.top/zh/publication/"
 cta_icon_pack = "fas"
