@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: 数据转换器
-summary: 数据转换器是沟通数字世界与模拟世界的桥梁，包括数模转换器和模数转换器。
+linktitle: 高等模拟集成电路
+summary: 本课程讲述模拟集成电路的分析与设计。课程内容包括MOS管器件模型，电流镜，单端放大器，差分放大器，运算放大器，频率响应，反馈理论，稳定性，噪声，电路非理想性，输出级，滤波器等。本课程也将讲述如何使用先进EDA软件工具进行电路分析和设计。 
 weight: 1
 
 # Page metadata.
@@ -20,43 +20,143 @@ menu:
     name: Overview
     weight: 1
 ---
+## 课程简介
 
-## Flexibility
+本课程讲述模拟集成电路的分析与设计。课程内容包括MOS管器件模型，电流镜，单端放大器，差分放大器，运算放大器，频率响应，反馈理论，稳定性，噪声，电路非理想性，输出级，滤波器等。本课程也将讲述如何使用先进EDA软件工具进行电路分析和设计。 
 
-This feature can be used for publishing content such as:
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+## 课程大纲
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+第一章 绪论
 
-## Delete tutorials
+第二章 长沟道模型
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+1. MOS管基本原理
 
-## Update site menu
+2. 电流-电压关系曲线的推导
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+3. 工作区的划分
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+4. 如何构造共源放大器
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
+第三章 小信号模型
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+1. 不同工作区小信号模型
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
+2. 内生电容模型
 
-## Update the docs menu
+3. 如何用小信号模型计算放大器性能指标计算
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+第四章 晶体管性能指标
+
+1. 电流效率gm/ID，特征频率gm/Cgs，以及本征增益gm/gds的定义
+
+2. 长沟道模型下器件性能指标与偏置电压的关系
+
+3. 器件性能指标与偏置电压的实际关系与理解
+
+第五章 基于gm-ID的模拟电路设计方法学
+
+1. 基于偏置电压的设计方法学的问题
+
+2. 基于gm-ID的设计方法学原理
+
+3. 查找表的构造
+
+4. 应用实例
+
+第六章 晶体管寄生电容
+
+1. 寄生电容的来源和建模
+
+2. 如何将寄生电容纳入gm-ID设计方法学
+
+第七章 Miller等效
+
+1. Miller等效的原理
+
+2. 开路时间常数分析方法
+
+第八章 噪声
+
+1. 基本概念
+
+2. 热噪声
+
+3. 1/f噪声
+
+第九章 共栅放大器
+
+1. 工作原理
+
+2. 背栅效应与分析方法
+
+3. 应用实例
+
+第十章 共漏放大器
+
+1. 工作原理
+
+2. 应用实例
+
+第十一章 差分对
+
+1. 差分电路优势
+
+2. 差分对原理
+
+第十一章 电流源与器件失配
+
+1. 电流源电路结构
+
+2. 器件系统失配
+
+3. 器件随机失配
+
+第十二章 差分放大器
+
+1. 共模反馈
+
+2. 负载考虑
+
+3. 开关电容电路
+
+第十三章 PVT变化与负反馈
+
+1. PVT变化
+
+2. 负反馈电路
+
+3. 频率响应与稳定性分析
+
+第十四章 两级放大器
+
+1. 单级放大器输出摆幅与增益
+
+2. 两级放大器输出摆幅与增益
+
+3. 两级放大器频率补偿
+
+4. 两级放大器噪声
+
+5. 两级放大器设计方法简介
+
+第十五章 放大器阶跃响应与压摆率
+
+1. 阶跃响应
+
+2. 压摆率
+
+第十六章 放大器结构介绍
+
+1. 多种类型共模反馈电路
+
+2. 多种类型放大器结构
+
+第十七章 基准源
+
+1. 基准源设计原理
+
+2. 带隙基准源原理
+
+第十八章 总结

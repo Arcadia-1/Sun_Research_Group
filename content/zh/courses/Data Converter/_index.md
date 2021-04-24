@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: 高等模拟集成电路
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: 模拟数字数据转换器设计
+summary: 模拟数字数据转换器是电子系统中应用非常广泛的核心电路，是连接数字世界和现实模拟世界的桥梁，是决定很多电子系统性能的关键模块。 本课程将详细介绍各种数据转换器的架构、工作原理和电路实现，并大量引入最新的模拟和混合信号芯片设计领域的研究成果。本课程不仅是介绍数据转换器，更是旨在以它为例讲解先进的模拟和混合信号电路的设计方法和研究理念，提升学生的知识储备、设计和研究能力。 本课程内容包括模拟和数字数据转换器的分析与设计，既包括顶层电路架构，也包括底层晶体管实现。本课程将讲解关键的模拟和混合信号电路模块的设计，包括采样保持电路、比较器、开关电容电路等。本课程涵盖各种模数转换器架构，包括flash、流水线、逐次逼近、过采样等；也涵盖各种数模转换器架构，包括电阻分压、R-2R、电流舵、电容阵列等。本课程也将介绍使用先进的计算机辅助设计工具。本课程包括大作业，要求用晶体管实现一个模数转换器。 
 weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-09-09T00:00:00Z"
+lastmod: "2020-10-29T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -20,43 +20,43 @@ menu:
     name: Overview
     weight: 1
 ---
+## 课程简介
 
-## Flexibility
+模拟数字数据转换器是电子系统中应用非常广泛的核心电路，是连接数字世界和现实模拟世界的桥梁，是决定很多电子系统性能的关键模块。 本课程将详细介绍各种数据转换器的架构、工作原理和电路实现，并大量引入最新的模拟和混合信号芯片设计领域的研究成果。本课程不仅是介绍数据转换器，更是旨在以它为例讲解先进的模拟和混合信号电路的设计方法和研究理念，提升学生的知识储备、设计和研究能力。 本课程内容包括模拟和数字数据转换器的分析与设计，既包括顶层电路架构，也包括底层晶体管实现。本课程将讲解关键的模拟和混合信号电路模块的设计，包括采样保持电路、比较器、开关电容电路等。本课程涵盖各种模数转换器架构，包括flash、流水线、逐次逼近、过采样等；也涵盖各种数模转换器架构，包括电阻分压、R-2R、电流舵、电容阵列等。本课程也将介绍使用先进的计算机辅助设计工具。本课程包括大作业，要求用晶体管实现一个模数转换器。 
 
-This feature can be used for publishing content such as:
+## 选课指导
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+本课程是芯片设计方向研究生课程体系中的一门核心课，对目标从事集成电路芯片设计领域工作的学生来说大有裨益。 
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
-## Delete tutorials
+## 课程大纲
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+第一章 绪论（1学时）
 
-## Update site menu
+第二章 行为级描述（3学时） 1. 抗混叠滤波 2. 采样保持电路 3. 量化器 4. 模拟重建滤波器
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+第三章 性能指标概论（3学时） 1. 静态工作指标 2. 动态工作指标
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+第四章 Nyquist DAC（3学时） 1. 五种基本电路架构 2. 高速高精度设计原理 3. 静态和动态误差 4. 前沿研究简介
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
+第五章 采样保持电路（6学时） 1. 开关电阻效应和自举技术 2. 开关电容效应和底板采样技术 3. 时钟抖动及其他非理想性 4. 近10年研究回顾
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+第六章 开关电容电路（2学时） 1. 瞬态响应分析 2. 噪声分析
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
+第七章 比较器（2学时） 1. 关键指标 2. 基本架构 3. 前沿研究简介
 
-## Update the docs menu
+第八章 Flash ADC（2学时） 1. 基本原理和电路架构 2. 误差校准和消除 3. 前沿研究简介
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+第九章 流水线 ADC（6学时） 1. 基本架构和时序 2. 冗余 3. 电路实现和优化 4. 前沿研究简介
+
+第十章 SAR ADC （6学时） 1. 基本架构 2. 低功耗技术 3. 高速技术
+
+第十一章 时钟交织 ADC（3学时） 1. 基本架构 2. 交织误差 3. 前沿研究简介
+
+第十二章 过采样 Delta-Sigma ADC （6学时） 1. 基本原理 2. 电路实现 3. 前沿研究简介
+
+第十三章 过采样 Delta-Sigma DAC （3学时） 1. 基本原理 2. 电路架构 3. 前沿研究简介
+
+第十四章 AD-DA性能指标分析和比较 （1学时） 1.不同架构AD-DA性能指标对比 2. 新架构展望
+
+第十五章 测试（1学时） 1. 静态性能测试 2. 动态性能测试
