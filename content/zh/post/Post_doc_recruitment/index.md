@@ -1,16 +1,8 @@
 ---
-title: '招聘博士后2~3名'
-subtitle: '开展高性能集成电路芯片设计与自动化方向的研究'
-summary: 清华大学孙楠教授正在组建国际领先水平的集成电路芯片设计研究团队，计划招聘博士后2~3名，开展高性能集成电路芯片设计与自动化方向的研究。
-authors:
-- director
-tags:
-- Recruitment
-categories:
-- 博士后
-  
-date: "2020-09-18T00:00:00Z"
-lastmod: "2020-10-22T00:00:00Z"
+title: 招聘博士后2~3名
+summary: 长期有效
+
+date: "2020-10-22T00:00:00Z"
 featured: false
 draft: false
 
@@ -20,7 +12,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: '清华大学'
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -32,8 +24,6 @@ image:
 projects: []
 ---
 ## 应聘条件
-
-
 1.芯片设计和设计自动化相关方向的博士学位
 2.热爱科研工作，对芯片设计有浓厚的科研兴趣
 3.有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
@@ -42,6 +32,4 @@ projects: []
 
 
 ## 岗位待遇
-
-
 将提供国际一流的科研环境和实验平台，在清华大学博士后的标准薪酬和福利待遇基础上（具体情况参见清华大学博士后申请相关网页）提供高竞争力的津贴及奖金，确保入选者可以在充足的资源条件下全身心投入研究工作。
