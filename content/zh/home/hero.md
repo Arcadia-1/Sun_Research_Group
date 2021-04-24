@@ -10,11 +10,7 @@ title = "做世界一流芯片"
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
 
-[[cta]]
-cta_label = "See our JSSC and ISSCC publications"
-cta_url = "https://www.sunresearchgroup.top/zh/publication/"
-cta_icon_pack = "fas"
-cta_icon = "graduation-cap"
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -38,7 +34,11 @@ cta_icon = "graduation-cap"
   
   # Text color (true=light or false=dark).
   text_color_light = true
-
+[[cta]]
+cta_label = "See our JSSC and ISSCC publications"
+cta_url = "https://www.sunresearchgroup.top/zh/publication/"
+cta_icon_pack = "fas"
+cta_icon = "graduation-cap"
 
 +++
 
