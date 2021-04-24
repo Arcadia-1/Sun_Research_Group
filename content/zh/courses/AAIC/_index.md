@@ -5,7 +5,7 @@ summary: 本课程讲述模拟集成电路的分析与设计。课程内容包�
 weight: 1
 
 # Page metadata.
-title: Overview
+title: 课程信息
 date: "2020-09-09T00:00:00Z"
 lastmod: "2020-10-29T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -15,10 +15,10 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-# menu:
-#   example:
-#     name: Overview
-#     weight: 1
+menu:
+  example:
+    name: 课程信息
+    weight: 1
 ---
 ## 课程简介
 

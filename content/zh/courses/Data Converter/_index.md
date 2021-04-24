@@ -5,7 +5,7 @@ summary: 模拟数字数据转换器是电子系统中应用非常广泛的核�
 weight: 1
 
 # Page metadata.
-title: Overview
+title: 课程信息
 date: "2020-09-09T00:00:00Z"
 lastmod: "2020-10-29T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: 课程信息
     weight: 1
 ---
 ## 课程简介
