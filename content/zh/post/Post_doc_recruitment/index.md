@@ -2,7 +2,8 @@
 title: 招聘博士后2~3名
 summary: 长期有效
 
-lastmod: "2020-11-18T00:00:00Z"
+date: "2020-11-15T00:00:00Z"
+lastmod: "2021-04-02T00:00:00Z"
 featured: false
 draft: false
 
