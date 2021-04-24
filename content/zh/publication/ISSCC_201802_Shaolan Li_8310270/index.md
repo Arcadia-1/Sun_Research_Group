@@ -1,5 +1,5 @@
 ---
-title: 2018 IEEE International Solid - State Circuits Conference - (ISSCC)
+title: A 13-ENOB 2nd-order noise-shaping SAR ADC realizing optimized NTF zeros using an error-feedback structure
 
 authors:
 - Shaolan Li

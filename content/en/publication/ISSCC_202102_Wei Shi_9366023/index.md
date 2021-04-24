@@ -1,5 +1,5 @@
 ---
-title: 2021 IEEE International Solid- State Circuits Conference (ISSCC)
+title: 10.4 A 3.7mW 12.5MHz 81dB-SNDR 4th-Order CTDSM with Single-OTA and 2nd-Order NS-SAR
 
 authors:
 - Wei Shi

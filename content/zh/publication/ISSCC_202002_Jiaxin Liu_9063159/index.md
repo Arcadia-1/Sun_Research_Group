@@ -1,5 +1,5 @@
 ---
-title: 2020 IEEE International Solid- State Circuits Conference - (ISSCC)
+title: 9.3 A 40kHz-BW 90dB-SNDR Noise-Shaping SAR with 4× Passive Gain and 2nd-Order Mismatch Error Shaping
 
 authors:
 - Jiaxin Liu

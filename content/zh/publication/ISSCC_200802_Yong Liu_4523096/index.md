@@ -1,5 +1,5 @@
 ---
-title: 2008 IEEE International Solid-State Circuits Conference - Digest of Technical Papers
+title: CMOS Mini Nuclear Magnetic Resonance System and its Application for Biomolecular Sensing
 
 authors:
 - Yong Liu

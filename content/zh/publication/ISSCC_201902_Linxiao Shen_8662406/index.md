@@ -1,5 +1,5 @@
 ---
-title: 2019 IEEE International Solid- State Circuits Conference - (ISSCC)
+title: 3.4 A 0.01mm2 25µW 2MS/s 74dB-SNDR Continuous-Time Pipelined-SAR ADC with 120fF Input Capacitor
 
 authors:
 - Linxiao Shen

@@ -1,5 +1,5 @@
 ---
-title: 2021 IEEE International Solid- State Circuits Conference (ISSCC)
+title: 15.2 A 2.75-to-75.9TOPS/W Computing-in-Memory NN Processor Supporting Set-Associate Block-Wise Zero Skipping and Ping-Pong CIM with Simultaneous Computation and Weight Updating
 
 authors:
 - Jinshan Yue

@@ -1,5 +1,5 @@
 ---
-title: 2020 IEEE International Solid- State Circuits Conference - (ISSCC)
+title: 16.5 A 13b 0.005mm2 40MS/s SAR ADC with kT/C Noise Cancellation
 
 authors:
 - Jiaxin Liu

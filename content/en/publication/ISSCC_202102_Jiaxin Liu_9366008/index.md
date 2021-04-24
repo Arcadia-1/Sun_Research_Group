@@ -1,5 +1,5 @@
 ---
-title: 2021 IEEE International Solid- State Circuits Conference (ISSCC)
+title: 27.1 A 250kHz-BW 93dB-SNDR 4th-Order Noise-Shaping SAR Using Capacitor Stacking and Dynamic Buffering
 
 authors:
 - Jiaxin Liu

@@ -1,5 +1,5 @@
 ---
-title: 2019 IEEE International Solid- State Circuits Conference - (ISSCC)
+title: 18.2 A 16fJ/Conversion-Step Time-Domain Two-Step Capacitance-to-Digital Converter
 
 authors:
 - Xiyuan Tang

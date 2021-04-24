@@ -1,5 +1,5 @@
 ---
-title: 2021 IEEE International Solid- State Circuits Conference (ISSCC)
+title: 27.7 A 79dB-SNDR 167dB-FoM Bandpass ΔΣ ADC Combining N-Path Filter with Noise-Shaping SAR
 
 authors:
 - Linxiao Shen

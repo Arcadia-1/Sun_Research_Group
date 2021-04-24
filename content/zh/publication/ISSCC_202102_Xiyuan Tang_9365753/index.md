@@ -1,5 +1,5 @@
 ---
-title: 2021 IEEE International Solid- State Circuits Conference (ISSCC)
+title: 27.4 A 0.4-to-40MS/s 75.7dB-SNDR Fully Dynamic Event-Driven Pipelined ADC with 3-Stage Cascoded Floating Inverter Amplifier
 
 authors:
 - Xiyuan Tang

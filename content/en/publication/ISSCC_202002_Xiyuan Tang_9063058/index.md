@@ -1,5 +1,5 @@
 ---
-title: 2020 IEEE International Solid- State Circuits Conference - (ISSCC)
+title: 9.5 A 13.5b-ENOB Second-Order Noise-Shaping SAR with PVT-Robust Closed-Loop Dynamic Amplifier
 
 authors:
 - Xiyuan Tang

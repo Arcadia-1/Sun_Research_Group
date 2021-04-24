@@ -1,5 +1,5 @@
 ---
-title: 2010 IEEE International Solid-State Circuits Conference - (ISSCC)
+title: Palm NMR and one-chip NMR
 
 authors:
 - Nan Sun
