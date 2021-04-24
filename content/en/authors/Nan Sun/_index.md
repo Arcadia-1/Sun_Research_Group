@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'nansun@tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nansun [at] tsinghua [dot] edu [dot] cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nansun@tsinghua.edu.cn"
+# email: "nansun@tsinghua.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -71,4 +71,4 @@ user_groups:
 - Director
 ---
 
-Nan Sun is Professor with Tsinghua University since 2020. He was Assistant and then tenured Associate Professor with University of Texas at Austin, where he is currently on leave. He received B.S. degree from Tsinghua University in 2006, and Ph.D. degree from Harvard University in 2010. Dr. Sun received the NSF Career Award in 2013, and the inaugural SSCS New Frontier Award in 2020. He has published 28 JSSC papers and 42 ISSCC/VLSI/CICC papers. He serves on the Technical Program Committee of CICC and ASSCC. He is an Associate Editor of TCAS-I, and a Guest Editor of JSSC. He serves as Distinguished Lecturer for both IEEE Solid-State Circuits Society and IEEE Circuits-and-Systems Society.
+Nan Sun is Professor with Tsinghua University since 2020. He was Assistant and then tenured Associate Professor with University of Texas at Austin. He received B.S. degree from Tsinghua University in 2006, and Ph.D. degree from Harvard University in 2010. Dr. Sun received the NSF Career Award in 2013, and the IEEE SSCS New Frontier Award in 2020. He has published 28 JSSC papers and 47 ISSCC/VLSI/CICC papers. He has graduated 22 PhD students, 8 of whom are professors at top universities in the US and China. He serves on the Technical Program Committee of CICC and ASSCC. He was Associate Editor of TCAS-I, and a Guest Editor of JSSC. He serves as Distinguished Lecturer for IEEE Circuits-and-Systems Society from 2018 to 2020. 
