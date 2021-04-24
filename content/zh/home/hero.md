@@ -36,7 +36,7 @@ hero_media = "FOM.jpg"
 
 [cta]
   url = "https://www.sunresearchgroup.top/zh/publication/"
-  label = "See our JSSC and ISSCC publications"
+  label = "See our JSSC/ISSCC publications"
   icon_pack = "fas"
   icon = "graduation-cap"
   
