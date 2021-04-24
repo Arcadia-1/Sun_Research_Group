@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'nansun@tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:nansun@tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nansun [at] tsinghua [dot] edu [dot] cn"
+# email: "nansun [at] tsinghua [dot] edu [dot] cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

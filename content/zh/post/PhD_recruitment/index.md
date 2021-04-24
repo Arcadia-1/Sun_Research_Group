@@ -1,7 +1,9 @@
 ---
 title: 招收博士生2名
 
-date: "2020-11-18"
+summary: 长期有效
+
+lastmod: "2020-11-28T00:00:00Z"
 
 featured: false
 draft: false
