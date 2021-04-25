@@ -9,7 +9,7 @@ title = "做世界一流芯片"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
-height = "1000px"
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -33,7 +33,7 @@ height = "1000px"
   
   # Text color (true=light or false=dark).
   text_color_light = true
-
+  height = "1000px"
 [cta]
   url = "https://www.sunresearchgroup.top/zh/publication/"
   label = "See our JSSC/ISSCC publications"
