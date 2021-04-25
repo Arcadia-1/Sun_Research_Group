@@ -9,7 +9,7 @@ title = "做世界一流芯片"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
-height = "600px"
+height = "1000px"
 
 [design.background]
   # Apply a background color, gradient, or image.
