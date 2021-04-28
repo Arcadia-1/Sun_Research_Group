@@ -19,13 +19,13 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = ""
+  align = ""  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "group0.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "psed1.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -37,20 +37,12 @@ height = "500px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
-
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "group1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "psed2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
-
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "group3.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "psed3.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
