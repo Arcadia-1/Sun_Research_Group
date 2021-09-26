@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士后
+role: 北京大学助理教授
 
 # # Organizations/Affiliations
 # organizations:

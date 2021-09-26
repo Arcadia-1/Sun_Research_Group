@@ -69,6 +69,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 博士后
+- 已毕业联合培养博士
 ---
 
 仲易，本科、博士均毕业于北京理工大学，2015年至2018年作为国家公派联合培养博士研究生在美国德州大学奥斯汀分校学习。2020年博士毕业后至今，在清华大学电子工程系从事博士后研究工作。主要研究方向为过采样模数转换器（ADC）芯片的设计，尤其是低功耗、具有先进工艺兼容性ADC芯片的设计。近年来在芯片设计领域的重要会议和顶级期刊上发表多篇论文，包括ASSCC、JSSC等。担任IEEE JSSC等多个期刊的审稿人。
