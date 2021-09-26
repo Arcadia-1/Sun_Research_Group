@@ -20,6 +20,7 @@ subtitle = ""
                  "Team@UT Austin",
                  "PhD Students Graduated",
                  "Jointly Supervised PhD Students Graduated",
+                 "Master Students Graduated",
                  "Visiting Scholar"]
 
 [design]
