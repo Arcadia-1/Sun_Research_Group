@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 西安交通大学助理教授
+role: Assistant Professor at Xi’an Jiaotong University
 
 # Organizations/Affiliations
 organizations:
-- name: 西安交通大学
+- name: Xi’an Jiaotong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

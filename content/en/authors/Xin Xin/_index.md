@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 西安邮电大学助理教授
+role: Assistant Professor at Xi’an Youdian University
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Xi’an Youdian University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
