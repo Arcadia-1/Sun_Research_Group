@@ -34,23 +34,148 @@ user_groups:
 - 已毕业硕士
 ---
 
-
-Marco Moreno	MS	09/2009	05/2012	Emerson
-Harold Bautista	MS	09/2010	05/2012	AMD
-Miguel Gandara	MS	09/2011	05/2012	PhD student at UT Austin
-Alex Fontaine	MS	09/2011	05/2013	Applied Research Laboratories
-Shitong Zhao	MS	09/2011	05/2013	Qualcomm
-Xiankun Jin	MS	09/2011	05/2013	NXP
-Olga Kardonik	MS	09/2011	05/2013	Intel
-Kyoungtae Lee	MS	09/2012	05/2014	PhD student at UC Berkeley
-Ji Ma	MS	09/2012	05/2014	Qualcomm
-You Li	MS	09/2013	05/2015	Oracle
-Anoosh Gnana	MS	09/2013	05/2015	McCombs School of Business
-Phillippe Dollo	MS	09/2014	05/2016	Texas Instruments
-Paridhi Gulati	MS	09/2014	05/2016	Analog Devices
-Sowmya Katragadda	MS	09/2014	05/2016	Oracle
-Xuming Zhao	MS	09/2015	05/2017	Intel 
-Vivek Varier 	MS	09/2015	12/2017	Texas Instruments
-Yunyi Wang	MS	09/2016	05/2018	Omnivision
-Mantian Zhang	MS	07/2017	05/2019	MediaTek 
-Sudeep Mishra	MS	07/2017	05/2019	Silicon Labs 
+<table>
+    <tr>
+        <td>Student Name</td>
+        <td>Degree</td>
+        <td>Start Date</td>
+        <td>Graduation Date</td>
+        <td>Placement</td>
+    </tr>
+    <tr>
+        <td>Marco Moreno</td>
+        <td>MS</td>
+        <td>09/2009</td>
+        <td>05/2012</td>
+        <td>Emerson</td>
+    </tr>
+    <tr>
+        <td>Harold Bautista</td>
+        <td>MS</td>
+        <td>09/2010</td>
+        <td>05/2012</td>
+        <td>AMD</td>
+    </tr>
+    <tr>
+        <td>Miguel Gandara</td>
+        <td>MS</td>
+        <td>09/2011</td>
+        <td>05/2012</td>
+        <td>PhD student at UT Austin</td>
+    </tr>
+    <tr>
+        <td>Alex Fontaine</td>
+        <td>MS</td>
+        <td>09/2011</td>
+        <td>05/2013</td>
+        <td>Applied Research Laboratories</td>
+    </tr>
+    <tr>
+        <td>Shitong Zhao</td>
+        <td>MS</td>
+        <td>09/2011</td>
+        <td>05/2013</td>
+        <td>Qualcomm</td>
+    </tr>
+    <tr>
+        <td>Xiankun Jin</td>
+        <td>MS</td>
+        <td>09/2011</td>
+        <td>05/2013</td>
+        <td>NXP</td>
+    </tr>
+    <tr>
+        <td>Olga Kardonik</td>
+        <td>MS</td>
+        <td>09/2011</td>
+        <td>05/2013</td>
+        <td>Intel</td>
+    </tr>
+    <tr>
+        <td>Kyoungtae Lee</td>
+        <td>MS</td>
+        <td>09/2012</td>
+        <td>05/2014</td>
+        <td>PhD student at UC Berkeley</td>
+    </tr>
+    <tr>
+        <td>Ji Ma</td>
+        <td>MS</td>
+        <td>09/2012</td>
+        <td>05/2014</td>
+        <td>Qualcomm</td>
+    </tr>
+    <tr>
+        <td>You Li</td>
+        <td>MS</td>
+        <td>09/2013</td>
+        <td>05/2015</td>
+        <td>Oracle</td>
+    </tr>
+    <tr>
+        <td>Anoosh Gnana</td>
+        <td>MS</td>
+        <td>09/2013</td>
+        <td>05/2015</td>
+        <td>McCombs School of Business</td>
+    </tr>
+    <tr>
+        <td>Phillippe Dollo</td>
+        <td>MS</td>
+        <td>09/2014</td>
+        <td>05/2016</td>
+        <td>Texas Instruments</td>
+    </tr>
+    <tr>
+        <td>Paridhi Gulati</td>
+        <td>MS</td>
+        <td>09/2014</td>
+        <td>05/2016</td>
+        <td>Analog Devices</td>
+    </tr>
+    <tr>
+        <td>Sowmya Katragadda</td>
+        <td>MS</td>
+        <td>09/2014</td>
+        <td>05/2016</td>
+        <td>Oracle</td>
+    </tr>
+    <tr>
+        <td>Xuming Zhao</td>
+        <td>MS</td>
+        <td>09/2015</td>
+        <td>05/2017</td>
+        <td>Intel </td>
+    </tr>
+    <tr>
+        <td>Vivek Varier </td>
+        <td>MS</td>
+        <td>09/2015</td>
+        <td>12/2017</td>
+        <td>Texas Instruments</td>
+    </tr>
+    <tr>
+        <td>Yunyi Wang</td>
+        <td>MS</td>
+        <td>09/2016</td>
+        <td>05/2018</td>
+        <td>Omnivision</td>
+    </tr>
+    <tr>
+        <td>Mantian Zhang</td>
+        <td>MS</td>
+        <td>07/2017</td>
+        <td>05/2019</td>
+        <td>MediaTek </td>
+    </tr>
+    <tr>
+        <td>Sudeep Mishra</td>
+        <td>MS</td>
+        <td>07/2017</td>
+        <td>05/2019</td>
+        <td>Silicon Labs </td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+</table>
