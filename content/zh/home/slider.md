@@ -25,7 +25,7 @@ height = "600px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "lab1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "lab2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -38,7 +38,7 @@ height = "600px"
 
 [[item]]
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "lab2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "lab1.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]

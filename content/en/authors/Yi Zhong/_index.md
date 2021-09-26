@@ -69,6 +69,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Postdoc
+- Jointly Supervised PhD Students Graduated
 ---
 
 Yi Zhong received the B.S. degree and Ph.D. degree in electronics engineering from the Beijing Institute of Technology (BIT), Beijing, China, in 2013 and 2020 respectively. He was a Visiting Ph.D. Student with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA, from 2015 to 2018. He is currently a Post-Doctoral Researcher with Tsinghua University.
