@@ -80,9 +80,9 @@ user_groups:
 
 <table>
     <tr>
-        <td>Name</td>
-        <td>Institute</td>
-        <td>Location</td>
+        <td><b>Name</b></td>
+        <td><b>Institute</b></td>
+        <td><b>Location</b></td>
     </tr>
     <tr>
         <td>Xili Han</td>
@@ -128,8 +128,5 @@ user_groups:
         <td>Lanchuan Zhou</td>
         <td>Project lead from Institute of Astronomy</td>
         <td>Chinese Academy of Sciences</td>
-    </tr>
-    <tr>
-        <td></td>
     </tr>
 </table>

@@ -36,11 +36,11 @@ user_groups:
 
 <table>
     <tr>
-        <td>Student Name</td>
-        <td>Degree</td>
-        <td>Start Date</td>
-        <td>Graduation Date</td>
-        <td>Placement</td>
+        <td><b>Student Name</b></td>
+        <td><b>Degree</b></td>
+        <td><b>Start Date</b></td>
+        <td><b>Graduation Date</b></td>
+        <td><b>Placement</b></td>
     </tr>
     <tr>
         <td>Marco Moreno</td>
