@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张岩龙
+title: Yanlong Zhang
 
 # Username (this should match the folder name)
 authors:
