@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 纽约州立大学布法罗分校助理教授
+role: Assistant Professor at SUNY Buffalo
 
 # Organizations/Affiliations
 organizations:
-- name: 纽约州立大学布法罗分校
+- name: SUNY Buffalo
   url: ""
 
 
