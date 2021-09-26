@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 已毕业硕士名单
+title: Master Students Graduated
 
 # Username (this should match the folder name)
 authors:

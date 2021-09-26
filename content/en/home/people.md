@@ -21,7 +21,7 @@ subtitle = ""
                  "PhD Students Graduated",
                  "Jointly Supervised PhD Students Graduated",
                  "Master Students Graduated",
-                 "Visiting Scholar"]
+                 "Visiting Scholars"]
 
 [design]
   # Show user's social networking links? (true/false)
