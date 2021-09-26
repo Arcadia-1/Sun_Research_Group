@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 访问学者名单
+title: Visiting Scholars
 
 # Username (this should match the folder name)
 authors:
@@ -75,7 +75,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 访问学者
+- Visiting Scholars
 ---
 
 <table>
