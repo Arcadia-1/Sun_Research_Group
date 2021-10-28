@@ -1,5 +1,5 @@
 ---
-title: An Overview of Noise-Shaping SAR ADC: From Fundamentals to the Frontier
+title: "An Overview of Noise-Shaping SAR ADC: From Fundamentals to the Frontier"
 
 authors:
 - Lu Jie
