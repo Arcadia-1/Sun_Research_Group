@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 助理研究员
+role: 访问研究员
 
 # # Organizations/Affiliations
 # organizations:
