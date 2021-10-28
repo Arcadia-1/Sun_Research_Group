@@ -1,17 +1,15 @@
 ---
-title: 27.4 A 0.4-to-40MS/s 75.7dB-SNDR Fully Dynamic Event-Driven Pipelined ADC with 3-Stage Cascoded Floating Inverter Amplifier
+title: A 0.014mm2 10kHz-BW Zoom-Incremental-Counting ADC Achieving 103dB SNDR and 100dB Full-Scale CMRR
 
 authors:
+- Lu Jie
+- Mingtao Zhan
 - Xiyuan Tang
-- Xiangxing Yang
-- Jiaxin Liu
-- Wei Shi
-- David Z. Pan
 - Nan Sun
 
-publishDate: "2021-02-13"
+publishDate: "2022-02"
 
-summary: ISSCC, 2021
+summary: ISSCC, 2022
 
 abstract: "Coming soon"
 
