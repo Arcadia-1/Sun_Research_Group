@@ -7,7 +7,7 @@ authors:
 - Xiyuan Tang
 - Nan Sun
 
-publishDate: "2022-02"
+publishDate: "2022-02-13"
 
 summary: ISSCC, 2022
 
