@@ -3,8 +3,8 @@ title: 招聘研究员序列教师2名
 
 summary: 有广阔发展平台、丰富资源以及有竞争力待遇，求贤若渴！
 
-date: "2021-04-15T00:00:00Z"
-lastmod: "2021-04-16T00:00:00Z"
+date: "2022-01-1T00:00:00Z"
+lastmod: "2022-01-01T00:00:00Z"
 featured: false
 draft: false
 
