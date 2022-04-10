@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 已毕业博士
 
 # # Organizations/Affiliations
 # organizations:
