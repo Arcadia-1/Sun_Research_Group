@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队@UT Austin
+- 已毕业博士
 ---
 
 杨向兴，2016年本科毕业于电子科技大学。目前在是德州大学奥斯汀分校在读博士。主要研究方向为用于边缘计算的模拟与混合信号芯片设计。
