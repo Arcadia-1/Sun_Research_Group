@@ -29,10 +29,10 @@ education:
   courses:
   - course: 博士
     institution: 德国乌尔姆大学
-    year: 2020
+    year: 2022
   - course: 硕士
     institution: 荷兰代尔夫特理工大学
-    year: 2015-2018    
+    year: 2015   
   - course: 本科
     institution: 复旦大学
     year: 2013
