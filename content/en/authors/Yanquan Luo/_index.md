@@ -31,7 +31,7 @@ education:
   - course: Ph.D. degree
     institution: University of Ulm, Germany
     year: 2022
-  - course: M.S.
+  - course: M.S. degree
     institution: Delft University of Technology, The Netherlands
     year: 2015   
   - course: B.S. degree
