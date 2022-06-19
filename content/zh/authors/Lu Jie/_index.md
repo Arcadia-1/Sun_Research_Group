@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 访问研究员
+role: 助理教授
 
 # # Organizations/Affiliations
 # organizations:
@@ -71,6 +71,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究员
+- 导师
 ---
-揭路，2017年获得浙江大学工程学士学位，后于2021年获得美国密歇根大学博士学位。博士毕业后加入清华大学电子系，任职助理研究员至今。主要研究方向为混合信号集成电路设计，包括混合架构的模数转换器（ADC），高速数据接口，无线收发机等。并以一作在芯片设计领域的顶级会议（ISSCC）和期刊（JSSC）上发表数篇关于模数转换器的论文。曾担任JSSC，TCAS-I，TCAS-II，TCAD等期刊的审稿人。
+揭路，2017年获得浙江大学工程学士学位，后于2021年获得美国密歇根大学博士学位。博士毕业后加入清华大学电子系，任职助理教授。主要研究方向为混合信号集成电路设计，包括混合架构的模数转换器（ADC），高速数据接口，无线收发机等。并以一作在芯片设计领域的顶级会议（ISSCC）和期刊（JSSC）上发表数篇关于模数转换器的论文。曾担任JSSC，TCAS-I，TCAS-II，TCAD等期刊的审稿人。
