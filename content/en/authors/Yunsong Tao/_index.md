@@ -21,7 +21,9 @@ role: Ph.D Student
 bio:
 
 interests:
-- Mixed Signal
+- High-speed analog-to-digital converter
+- Mixed-signal circuit
+
 
 education:
   courses:
@@ -31,7 +33,9 @@ education:
   - course: Exchange
     institution: The Department of Physics, St Peter's College, Oxford University, Oxford, U.K.
     year: 2017.9-2018.6
-
+  - course: Ph.D.
+    institution: The Department of Electronic Engineering, Tsinghua University, Beijing, China
+    year: 2021.8-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,5 +71,4 @@ highlight_name: true
 user_groups:
 - Student
 ---
-Yunsong Tao is currently pursing the B.S. degree from Department of Electronic Engineering, Tsinghua University, Beijing, China, where he is going to be a Ph.D. student.
-His research interest includes analog and mixed-signal integrated circuits design.
+Yunsong Tao received the B.S. degree from the Department of Electronic Engineering, Tsinghua University in 2021. He is currently pursuing the Ph.D. degree. His research mainly focuses on high-speed analog-to-digital converters.

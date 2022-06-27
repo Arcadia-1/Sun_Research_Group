@@ -21,16 +21,20 @@ role: 博士研究生
 bio:
 
 interests:
-- 模拟和混合信号集成电路
+- 高速模拟数字转换器
+- 混合信号电路
 
 education:
   courses:
   - course: 本科
     institution: 清华大学新雅书院，电子信息科学与技术专业
-    year: 2016.8-
+    year: 2016.8-2021.6
   - course: 本科交换
     institution: 牛津大学圣彼得学院，物理专业
     year: 2017.9-2018.6
+  - course: 博士研究生
+    institution: 清华大学电子工程系
+    year: 2021.8-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,5 +71,5 @@ user_groups:
 - 团队
 ---
 
-我目前是直博零年级，研究方向是模拟与混合信号集成电路芯片设计。
+陶云松于2021年6月毕业于清华大学新雅书院，专业为电子信息科学与技术，2021年9月起于清华大学电子工程系攻读博士学位。他的主要研究方向为高速模拟数字转换器设计。
 
