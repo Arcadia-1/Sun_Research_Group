@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor in School of Integrated Circuits
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,13 +21,9 @@ role: Assistant Professor
 bio: 
 
 interests:
-- Analog / Mixed-Signal IC 
-- Analog to Digital Converter
-- SerDes
-- Wireless Transmitter 
-
-
-
+- ADC/DAC
+- Reconfigurable Mixed-Signal IC
+- Mixed-Signal Computing
 
 education:
   courses:
@@ -72,6 +68,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellow
+- Co-advisor
 ---
-Lu Jie received the B.Eng. degree from the Zhejiang University, China, in 2017, and received Ph.D. degree from the University of Michigan, US, in 2021. Since then, he is currently with Tsinghua University, China, as an Assistant Researcher. His main research interest is on Mixed-Signal Integrated Circuit Design, including hybrid-architecture ADC, high-speed data interface, and wireless transceiver. 
+Lu Jie is currently an Assistant Professor with the School of Integrated Circuits at Tsinghua Uni-versity, Beijing, China. He received the B.S. degrees in electronic engineering from Zhejiang University, Hangzhou, China, in 2017, and the Ph.D. and M.S. degree from the University of Michigan, Ann Arbor, USA, in 2021. Since 2022, he has been a Faculty Member with the School of Integrated Circuits, Tsinghua University, Beijing, China. He has authored or co-authored over 15 IEEE journal and conference articles including 7 ISSCC and JSSC. His research interests include hybrid-architecture ADC; RF-DAC; reconfigurable mixed-signal circuits; and mixed-signal computation. 
