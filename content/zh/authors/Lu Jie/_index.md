@@ -34,6 +34,7 @@ education:
     year: 2021
   - course: 学士(优秀毕业生)
     institution: 浙江大学信息与电子工程学院
+    year: 2017
 
 
 
