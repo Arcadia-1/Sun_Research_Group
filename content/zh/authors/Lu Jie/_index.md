@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 助理教授
+role: 集成电路学院助理教授
 
 # # Organizations/Affiliations
 # organizations:
@@ -71,6 +71,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 导师
+- 合作导师
 ---
-揭路，2017年获得浙江大学工程学士学位，后于2021年获得美国密歇根大学博士学位。博士毕业后加入清华大学电子系，任职助理教授。主要研究方向为混合信号集成电路设计，包括混合架构的模数转换器（ADC），高速数据接口，无线收发机等。并以一作在芯片设计领域的顶级会议（ISSCC）和期刊（JSSC）上发表数篇关于模数转换器的论文。曾担任JSSC，TCAS-I，TCAS-II，TCAD等期刊的审稿人。
+2013-2017年于浙江大学信息与电子工程学院获学士学位，2017-2021年于美国密歇根大学（University of Michigan）电气与计算机工程系（ECE）获博士学位（导师Michael P. Flynn）。2018年获ADI公司杰出设计师奖。2022年5月加入清华大学集成电路学院任职助理教授。主要研究方向为先进数模混合集成电路设计，重点包括高精度、高速及低功耗的混合架构模数转换器（ADC）、射频数模转换器（DAC）、可重构数模混合电路、数模混合计算等。近年在集成电路设计领域的一流会议和期刊上发表论文15余篇，其中以一作/通信作在领域顶级会议（ISSCC）和顶级期刊（JSSC）上发表论文7篇，为TINS-SAR、CaNS-SAR、HL-DSM、ZIC等新型ADC架构的提出人，并多次刷新同类ADC的指标记录。

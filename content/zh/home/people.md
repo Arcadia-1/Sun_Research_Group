@@ -14,6 +14,7 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["导师",
+                 "合作导师",
                  "研究员",
                  "博士后",
                  "团队",
