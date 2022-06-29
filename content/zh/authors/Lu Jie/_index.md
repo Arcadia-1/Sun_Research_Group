@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jielu1995 [at] outlook [dot] com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jielu@mail.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
