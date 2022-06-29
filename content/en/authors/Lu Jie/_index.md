@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor in School of Integrated Circuits
+role: Assistant Professor in SIC
 
 # # Organizations/Affiliations
 # organizations:
@@ -32,8 +32,7 @@ education:
     year: 2021
   - course: B.Eng (w/ Honor)
     institution:  Information Science and Electronic Engineering, Zhejiang University, Hangzhou, Zhejiang, China
-
-
+    year: 2017
 
 
 # Social/Academic Networking
