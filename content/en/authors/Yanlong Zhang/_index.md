@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor at Xi’an Jiaotong University
+role: Associate Professor at Xi’an Jiaotong University
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+- RF，Analog, and Mixed-signal IC Design
+- High-Performance Frequency Sources
+- Data Converters
 
+education:
+  courses:
+  - course: Ph.D. degree
+    institution: Xidian University, Xi’an, China
+    year: 2018
+  - course: B.S. degree
+    institution: Xidian University, Xi’an, China
+    year: 2011
 
 
 
@@ -34,7 +46,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yanlong.zhang@xjtu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -62,3 +74,5 @@ user_groups:
 - Jointly Supervised PhD Students Graduated
 ---
 
+Yanlong Zhang received the B.S. and Ph.D. degrees from the School of Microelectronics, Xidian University, Xi’an, China, in 2011 and 2018, respectively. He is currently an Associate Professor with the School of Microelectronics, Xi’an Jiaotong University, Xi’an. From October 2015 to November 2017, he was a joint Ph.D. student with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. 
+His research interests include RF，analog, and mixed-signal integrated circuit design, high-performance frequency source, and data converters. He serves as a Reviewer for IEEE Transactions on Circuits and Systems I: Regular Papers, IEEE Transactions on Microwave Theory and Techniques, etc.  
