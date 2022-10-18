@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team@UT Austin
+- PhD Students Graduated
 ---
 
 Xiangxing Yang received the B.S. degree in electronics engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2016. He is currently pursuing the Ph.D. degree with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interest includes analog and mixed-signal circuit design for edge computing.

@@ -10,36 +10,38 @@ authors:
 superuser: false
 
 # Role/position
-role: 已毕业博士
+role: Meta AI 研究科学家
 
-# # Organizations/Affiliations
-# organizations:
-# - name: 
-#   url: ""
+# Organizations/Affiliations
+organizations:
+- name: Meta AI
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- 高性能数据转换器
+- 机器学习设计自动化
+- 基于强化学习的大规模系统优化
 
 education:
   courses:
   - course: 博士
-    # institution: 
-    # year: 2006
+    institution: 德州大学奥斯汀分校
+    year: 2022
   - course: 本科
-    # institution: 
-    # year: 2006
+    institution: 浙江大学
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:weishi0079 [at] gmail [dot] com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,3 +69,5 @@ user_groups:
 - 已毕业博士
 ---
 
+
+施为， 2017年于浙江大学电气工程学院获得学士学位, 2022年于德州大学奥斯汀分校获得博士学位。目前为Meta AI 研究科学家。在校期间获得ADI优秀学生设计奖，IEEE固态电路学会博士生成就奖等荣誉。他的主要研究方向是混合信号电路设计，机器学习设计自动化和基于强化学习的大规模系统优化。
