@@ -36,6 +36,13 @@ height = "600px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
+
+[[item]]
+  # overlay_color = "#555"  # An HTML color value.
+  overlay_img = "lab2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+
 [[item]]
   # overlay_color = "#555"  # An HTML color value.
   overlay_img = "team1.jpg"  # Image path relative to your `static/media/` folder.
