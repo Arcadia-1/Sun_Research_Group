@@ -72,3 +72,5 @@ user_groups:
 ---
 
 孙楠2006年本科毕业于清华大学，2010年博士毕业于哈佛大学。他在2011年入职美国德克萨斯大学奥斯丁分校，并于2017年获得终身教职。他从2020年起在清华担任长聘教授。他在2020年获得了IEEE固态电路协会颁发的New Frontier Award，2013年获得美国自然科学基金Career Award。他曾担任IEEE电路与系统协会和固态电路协会杰出讲师，JSSC和TCAS-I编委，以及ISSCC，CICC和ASSCC的技术委员会成员。他还担任过多家世界知名芯片设计公司的咨询顾问。他培养了26名博士生，其中10人在中美大学任教，包括Gatech, ASU，北大，成电、西电、西交等。他在芯片设计领域顶级期刊JSSC发表论文30余篇，在顶级会议ISSCC/VLSI/CICC上发表论文50余篇。
+
+Google Scholar：https://scholar.google.com/citations?hl=en&user=dtUMGuMAAAAJ&view_op=list_works&sortby=pubdate

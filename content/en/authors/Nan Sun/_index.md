@@ -72,3 +72,5 @@ user_groups:
 ---
 
 Nan Sun is Professor with Tsinghua University since 2020. He was Assistant and then tenured Associate Professor with University of Texas at Austin. He received B.S. degree from Tsinghua University in 2006, and Ph.D. degree from Harvard University in 2010. Dr. Sun received the NSF Career Award in 2013, and the IEEE SSCS New Frontier Award in 2020. He has published 30+ JSSC papers and 50+ ISSCC/VLSI/CICC/ESSCIRC papers. He has graduated 26 PhD students, 10 of whom are professors at top universities in the US and China. He serves on the TPC of ISSCC, CICC, and ASSCC. He was Associate Editor of TCAS-I, and a Guest Editor of JSSC. He also serves as Distinguished Lecturer for both IEEE Circuits-and-Systems Society and IEEE Solid-State Circuits Society.
+
+Google Scholar：https://scholar.google.com/citations?hl=en&user=dtUMGuMAAAAJ&view_op=list_works&sortby=pubdate
