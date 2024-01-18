@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士后
+role: 助理研究员
 
 # # Organizations/Affiliations
 # organizations:
@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 博士后
+- 研究员
 - 已毕业联合培养博士
 ---
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Associate
 
 # # Organizations/Affiliations
 # organizations:
@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoc
+- Research Associate
 - Jointly Supervised PhD Students Graduated
 ---
 
