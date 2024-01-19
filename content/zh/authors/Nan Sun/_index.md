@@ -47,6 +47,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=dtUMGuMAAAAJ&view_op=list_works&sortby=pubdate
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=dtUMGuMAAAAJ&view_op=list_works&sortby=pubdate
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=dtUMGuMAAAAJ&view_op=list_works&sortby=pubdate
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nansun [at] tsinghua [dot] edu [dot] cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
