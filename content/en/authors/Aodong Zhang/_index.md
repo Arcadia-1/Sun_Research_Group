@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xing Wang
+title: Aodong Zhang
 
 # Username (this should match the folder name)
 authors:
-- Xing Wang
+- Aodong Zhang
  
 # Is this the primary user of the site?
 superuser: false
@@ -21,16 +21,16 @@ role: Ph.D. Student
 bio: 
 
 interests:
-- Mixed-signal IC design
+- Mixed-signal IC design, Analog Signal Chains design
 
 education:
   courses:
   - course: Ph.D.
     institution: Tsinghua University
-    year: 2019-
+    year: 2023-
   - course: B.S.
     institution: Tsinghua University
-    year: 2015-2019
+    year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:wangxing.Tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zad19@tsinghua.org.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,5 +67,5 @@ user_groups:
 - Student
 ---
 
-Xing Wang (Student Member, IEEE) received the B.S. degree from Tsinghua University, Beijing, China, in 2019, where he is currently pursuing the Ph.D. degree with Department of Electronic Engineering, Tsinghua University, Beijing, China. From November 2019 to June 2020, he was a Visiting Scholar with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interests include High accuracy low-power SAR analog-to-digital converter (ADC) and DAC designs.
+Aodong Zhang received the B.S. degree from Tsinghua University, Beijing, China, in 2023, and received honors such as Outstanding Graduate, Academic Excellence Award, and Comprehensive Excellence Award. Starting from September 2023, he will pursue the Ph.D in the Department of Electronic Engineering, Tsinghua University, Beijing, China. His research interests include High speed analog-to-digital converter (ADC) and systems, as well as analog signal chain design.
 

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 王兴
+title: 张奥东
 
 # Username (this should match the folder name)
 authors:
-- Xing Wang
+- Aodong Zhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,16 +21,16 @@ role: 博士研究生
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- 模拟和混合信号集成电路，模拟信号链芯片
 
 education:
   courses:
   - course: 博士
     institution: 清华大学电子工程系
-    year: 2019-
+    year: 2023-
   - course: 学士
     institution: 清华大学电子工程系
-    year: 2015-2019
+    year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:wangxing.Tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zad19@tsinghua.org.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,5 +67,5 @@ user_groups:
 - 团队
 ---
 
-2019年清华本科毕业，得到学士学位，目前正在清华电子系攻读博士学位。2019年11月到2020年7月，在德州大学奥斯汀分校做访问学者。研究兴趣是混合信号集成电路设计，与高精度SAR ADC和DAC设计。已有多次流片经验。
+张奥东2023年本科毕业于清华大学电子工程系，获优良毕业生、学业优秀奖、综合优秀奖等荣誉，2023年9月起于清华大学电子工程系攻读博士学位。他主要的研究方向为高速模数转换器及系统、模拟信号链芯片。
 
