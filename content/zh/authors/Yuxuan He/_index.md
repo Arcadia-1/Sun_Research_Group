@@ -2,6 +2,8 @@
 # Display name
 title: 贺宇轩
 
+weight: 2023
+
 # Username (this should match the folder name)
 authors:
 - He Yuxuan

@@ -2,6 +2,8 @@
 # Display name
 title: 张奥东
 
+weight: 2023
+
 # Username (this should match the folder name)
 authors:
 - Aodong Zhang
