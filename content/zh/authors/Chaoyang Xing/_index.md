@@ -2,6 +2,8 @@
 # Display name
 title: 邢朝阳
 
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - Chaoyang Xing
