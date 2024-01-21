@@ -2,7 +2,7 @@
 # Display name
 title: 黄思语
 
-weight: 2023
+weight: 2024
 
 # Username (this should match the folder name)
 authors:
