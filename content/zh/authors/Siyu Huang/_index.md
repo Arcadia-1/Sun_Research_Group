@@ -2,6 +2,8 @@
 # Display name
 title: 黄思语
 
+weight: 2023
+
 # Username (this should match the folder name)
 authors:
 - Siyu Huang
