@@ -1,40 +1,36 @@
 ---
 # Display name
-title: 黄思语
-
-weight: 2023
+title: Jun Dai
 
 # Username (this should match the folder name)
 authors:
-- Siyu Huang
-
+- Jun Dai
+ 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
-# - name: 清华大学电子工程系
-#   url: "https://www.analog.com/cn/index.html"
+# - name: Tsinghua University
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 高性能数据转换器
-- 可重构数模混合电路
-
+- Mixed-signal IC design
 
 education:
   courses:
-  - course: 博士
-    institution: 清华大学
-    year: 2023-
-  - course: 学士
-    institution: 清华大学
-    year: 2019-2023
+  - course: Ph.D.
+    institution: Tsinghua University
+    year: 2024-
+  - course: B.S.
+    institution: Huazhong University of Science and Technology
+    year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:siyu.tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jun.daii5@icloud.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -68,8 +64,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- Student
 ---
 
-2023年清华本科毕业，得到学士学位，目前正在清华大学攻读博士学位。主要研究方向为高性能数据转换器与可重构数模混合电路。
+His research interests include high speed analog front-end and high speed analog-to-digital converter (ADC) designs.
 

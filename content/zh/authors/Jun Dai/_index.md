@@ -1,12 +1,10 @@
 ---
 # Display name
-title: 黄思语
-
-weight: 2023
+title: 戴军
 
 # Username (this should match the folder name)
 authors:
-- Siyu Huang
+- Jun Dai
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,18 +21,16 @@ role: 博士研究生
 bio: 
 
 interests:
-- 高性能数据转换器
-- 可重构数模混合电路
-
+- 模拟和混合信号集成电路
 
 education:
   courses:
   - course: 博士
-    institution: 清华大学
-    year: 2023-
+    institution: 清华大学电子工程系
+    year: 2024-
   - course: 学士
-    institution: 清华大学
-    year: 2019-2023
+    institution: 华中科技大学集成电路学院
+    year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:siyu.tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jun.dai5@icloud.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -71,5 +67,5 @@ user_groups:
 - 团队
 ---
 
-2023年清华本科毕业，得到学士学位，目前正在清华大学攻读博士学位。主要研究方向为高性能数据转换器与可重构数模混合电路。
+他的研究兴趣是高速模拟前端和高速数据转换器电路设计。
 
