@@ -2,6 +2,8 @@
 # Display name
 title: 张智帅
 
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - Zhishuai Zhang

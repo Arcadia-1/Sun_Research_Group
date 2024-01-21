@@ -2,6 +2,8 @@
 # Display name
 title: 王宏睿
 
+weight: 2024
+
 # Username (this should match the folder name)
 authors:
 - Hongrui Wang

@@ -2,6 +2,8 @@
 # Display name
 title: 古明阳
 
+weight: 2020
+
 # Username (this should match the folder name)
 authors:
 - Mingyang Gu
