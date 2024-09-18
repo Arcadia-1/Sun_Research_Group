@@ -1,38 +1,42 @@
 ---
 # Display name
-title: 詹明韬
-
-weight: 2020
+title: Yanquan Luo
 
 # Username (this should match the folder name)
 authors:
-- Mingtao Zhan
+- Yanquan Luo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: Postdoctoral Researcher
 
 # # Organizations/Affiliations
-organizations:
-- name: 美满电子
-  url: ""
+# organizations:
+# - name: 
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- Analog and mixed signal IC design
+- ADC
+- DAC
+- Sensor analog front-end design
 
 education:
   courses:
-  - course: 博士
-    institution: 清华大学电子工程系
-    year: 2024
-  - course: 学士（优秀毕业生）
-    institution: 清华大学电子工程系
-    year: 2020
+  - course: Ph.D. degree
+    institution: University of Ulm, Germany
+    year: 2022
+  - course: M.S. degree
+    institution: Delft University of Technology, The Netherlands
+    year: 2015   
+  - course: B.S. degree
+    institution: Fudan University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zmt16@tsinghua.org.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: ''  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -66,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 已毕业博士
+- Postdoc
 ---
 
-研究方向：高性能数据转换器
+Yanquan Luo received the B.S. degree in microelectronics from Fudan University, China, in 2013, and the M.S. degree in microelectronics from the Delft University of Technology, The Netherlands, in 2015. She has been working as a research assistant while pursuing the Ph.D. degree at University of Ulm, Germany, from 2016 to March, 2022. Since June, 2022, she has engaged in postdoctoral research at Tsinghua University, China. Her current research interest is analog and mixed signal IC design, including ADC, DAC and sensor analog front-end design. She served as a reviewer for JSSC, TCAS-II, ESSCIRC and ISCAS.

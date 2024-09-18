@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. degree
+    institution: The Department of Electronic Engineering, Tsinghua University, Beijing, China
+    year: 2024
   - course: B.S. degree (Hons.)
     institution: The Department of Electronic Engineering, Tsinghua University, Beijing, China
     year: 2020
@@ -38,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zmt20@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zmt16@tsinghua.org.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -63,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- PhD Students Graduated
 ---
 
 Mingtao Zhan (S’20) received the B.S. degree(Hons.) from Department of Electrical Engineering, Tsinghua University, Beijing, China, in 2020, where he is currently pursing the Ph.D. degree.
