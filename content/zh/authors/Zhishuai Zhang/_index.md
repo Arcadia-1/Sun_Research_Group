@@ -24,6 +24,7 @@ bio:
 
 interests:
 - 模拟和混合信号集成电路
+- 可重构模数转换器
 
 education:
   courses:
@@ -33,10 +34,6 @@ education:
   - course: 本科
     institution: 清华大学电子工程系
     year: 2017.5-
-  - course: 本科
-    institution: 清华大学机械工程系
-    year: 2016.8-2017.5
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:2829565769@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zzs_arcadia@163.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -73,4 +70,4 @@ user_groups:
 - 团队
 ---
 
-他的主要研究方向是模拟与混合信号集成电路芯片设计。
+他的主要研究方向是可重构数据转换器芯片设计。
