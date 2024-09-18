@@ -10,19 +10,18 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Senior Engineer
 
 # # Organizations/Affiliations
-# organizations:
-# - name: 
-#   url: ""
+organizations:
+- name: Marvell
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
 - Mixed Signal
-- In-Memory Computing
 
 education:
   courses:
