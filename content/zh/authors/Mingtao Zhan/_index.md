@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 资深工程师
 
 # # Organizations/Affiliations
 organizations:
