@@ -2,6 +2,8 @@
 # Display name
 title: Chaoyang Xing
 
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - Chaoyang Xing

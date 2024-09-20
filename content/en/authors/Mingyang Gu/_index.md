@@ -6,6 +6,8 @@ title: Mingyang Gu
 authors:
 - Mingyang Gu
 
+weight: 2020
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,8 @@ title: Xing Wang
 authors:
 - Xing Wang
  
+weight: 2019
+
 # Is this the primary user of the site?
 superuser: false
 
