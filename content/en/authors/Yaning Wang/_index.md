@@ -1,40 +1,38 @@
 ---
 # Display name
-title: Yaning Wang
+title: Yian Gao
 
-weight: 2025
+weight: 2024
 
 # Username (this should match the folder name)
 authors:
 - Yaning Wang
-
+ 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
-# - name: 清华大学集成电路学院
-#   url: "https://www.analog.com/cn/index.html"
+# - name: School of Integrated Circuits,Tsinghua University
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Analog and mixed signal IC design
+- Mixed-signal IC design
 
 education:
-  - course: Ph.D. student
-    institution: Tsinghua University
-    year: 2025-
-  - course: M.S. degree
-    institution: Tsinghua University
-    year: 2022-2025
-  - course: B.S. degree
-    institution: Tianjin University
-    year: 2018-2022
+  courses:
+  - course: Ph.D.
+    institution: School of Integrated Circuits, Tsinghua University
+    year: 2024-
+  - course: B.S.
+    institution: Department of Precision Instruments, Tsinghua University
+    year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yn-wang22@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gaoyian.Tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -60,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "705421147@qq.com"
+email: "705421147@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -71,4 +69,5 @@ user_groups:
 - Student
 ---
 
-Yaning Wang graduated from the Microelectronics College of Tianjin University in June 2022 and started pursuing her master's degree at the Integrated Circuit College of Tsinghua University in September 2022. She began her doctoral studies at the Integrated Circuit College of Tsinghua University in September 2025. Her hobby is high-speed analog-to-digital converters.
+Yian Gao is currently the fourth year undergraduate student in the Department of Precision Instruments, Tsinghua university, Beijing, China. His main research interests is design of high-accuracy data converters.
+
