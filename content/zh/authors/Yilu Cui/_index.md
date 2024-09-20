@@ -60,7 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- 团队
 ---
 
 本科四年级学生，就读于清华大学电子工程系。主要研究方向为高精度数据转换器设计。
