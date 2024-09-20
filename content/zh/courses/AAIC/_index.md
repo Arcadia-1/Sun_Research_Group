@@ -2,12 +2,14 @@
 # Course title, summary, and position.
 linktitle: 高等模拟集成电路
 summary: 本课程讲述模拟集成电路的分析与设计。课程内容包括MOS管器件模型，电流镜，单端放大器，差分放大器，运算放大器，频率响应，反馈理论，稳定性，噪声，电路非理想性，输出级，滤波器等。本课程也将讲述如何使用先进EDA软件工具进行电路分析和设计。 
+对应教材热销中：http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601
+
 weight: 1
 
 # Page metadata.
 title: 课程信息
 date: "2020-09-09T00:00:00Z"
-lastmod: "2020-10-29T00:00:00Z"
+lastmod: "2024-9-20T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -20,6 +22,18 @@ menu:
     name: 课程信息
     weight: 1
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 ## 课程简介
 
 本课程讲述模拟集成电路的分析与设计。课程内容包括MOS管器件模型，电流镜，单端放大器，差分放大器，运算放大器，频率响应，反馈理论，稳定性，噪声，电路非理想性，输出级，滤波器等。本课程也将讲述如何使用先进EDA软件工具进行电路分析和设计。 
