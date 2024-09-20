@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yian Gao
+title: Yaning Wang
 
 weight: 2024
 
@@ -23,16 +23,19 @@ role: Ph.D. Student
 bio: 
 
 interests:
-- Mixed-signal IC design
+- Analog and mixed signal IC design
 
 education:
   courses:
   - course: Ph.D.
     institution: School of Integrated Circuits, Tsinghua University
-    year: 2024-
+    year: 2025-
+  - course: M.S.
+    institution: School of Integrated Circuits, Tsinghua University
+    year: 2022-2024
   - course: B.S.
-    institution: Department of Precision Instruments, Tsinghua University
-    year: 2020-2024
+    institution: Tianjin University
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gaoyian.Tsinghua@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yn-wang22@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -58,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "705421147@qq.com"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -69,5 +72,4 @@ user_groups:
 - Student
 ---
 
-Yian Gao is currently the fourth year undergraduate student in the Department of Precision Instruments, Tsinghua university, Beijing, China. His main research interests is design of high-accuracy data converters.
-
+Yaning Wang graduated from the Microelectronics College of Tianjin University in June 2022 and started pursuing her master's degree at the Integrated Circuit College of Tsinghua University in September 2022. She began her doctoral studies at the Integrated Circuit College of Tsinghua University in September 2025. Her hobby is high-speed analog-to-digital converters.
