@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Student
 ---
 
 A fourth-year undergraduate student, studying in the Department of Electronic Engineering at Tsinghua University. The main research direction is the design of high-resolution data converters. 
