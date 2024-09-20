@@ -6,6 +6,8 @@ title: Hongrui Wang
 authors:
 - Hongrui Wang
  
+weight: 2024
+
 # Is this the primary user of the site?
 superuser: false
 
