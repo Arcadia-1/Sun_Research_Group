@@ -2,6 +2,8 @@
 # Display name
 title: Xiaoyu Guo
 
+weight: 2024
+
 # Username (this should match the folder name)
 authors:
 - Xiaoyu Guo

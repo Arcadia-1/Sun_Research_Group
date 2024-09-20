@@ -6,6 +6,8 @@ title: 刘超
 authors:
 - Chao Liu
 
+weight: 2024
+
 # Is this the primary user of the site?
 superuser: false
 
