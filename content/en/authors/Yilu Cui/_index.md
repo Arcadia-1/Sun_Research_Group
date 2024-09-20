@@ -2,6 +2,8 @@
 # Display name
 title: Yilu Cui
 
+weight: 2024
+
 # Username (this should match the folder name)
 authors:
 - Yilu Cui

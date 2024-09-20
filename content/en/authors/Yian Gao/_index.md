@@ -2,6 +2,8 @@
 # Display name
 title: Yian Gao
 
+weight: 2023
+
 # Username (this should match the folder name)
 authors:
 - Yian Gao

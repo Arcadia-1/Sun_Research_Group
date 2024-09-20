@@ -2,6 +2,8 @@
 # Display name
 title: Mingtao Zhan
 
+weight: 2020
+
 # Username (this should match the folder name)
 authors:
 - Mingtao Zhan
