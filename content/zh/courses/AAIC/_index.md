@@ -26,7 +26,7 @@ menu:
 
 
 
-![Image alt](featured.jpg)
+![Image alt](featured2.jpg=250x)
 
 
 
