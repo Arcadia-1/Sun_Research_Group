@@ -19,6 +19,8 @@ type: docs  # Do not modify.
 #   example:
 #     name: 课程信息
 #     weight: 1
+
+
 ---
 ## 课程简介
 
