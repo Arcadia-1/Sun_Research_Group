@@ -67,6 +67,4 @@ user_groups:
 - Student
 ---
 
-Zhishuai Zhang (S’19) is currently pursing the B.S. degree, while is going to be a Ph.D. student.
-His research interest includes analog and mixed-signal integrated circuits design.
-
+Zhishuai Zhang (Graduate Student Member) received the B.S. degree from the Department of Electronic Engineering, Tsinghua University, Beijing, China, in 2021, where he is currently working toward the Ph.D. degree. His main research area includes reconfigurable data converters. He has been awarded the Student Travel Grant Award for ISSCC 2025 and granted by the National Science Foundation of China (NSFC) Young Scholar Basic Research Program (for doctoral students).
