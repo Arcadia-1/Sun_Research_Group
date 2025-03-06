@@ -73,4 +73,5 @@ highlight_name: true
 user_groups:
 - Student
 ---
-Yunsong Tao received the B.S. degree from the Department of Electronic Engineering, Tsinghua University in 2021. He is currently pursuing the Ph.D. degree. His research mainly focuses on high-speed analog-to-digital converters.
+Yunsong Tao (Graduate Student Member, IEEE) received the B.S. degree from the Department of Electronic Engineering, Tsinghua University, Beijing, China, in 2021, where he is currently pursuing the Ph.D. degree. He visited the Department of Physics, University of Oxford, Oxford, UK, from 2017 to 2018, as a Yinghua Scholar with a full-ride scholarship (about 8 students per year in Tsinghua University). His research interests include high-performance analog-to-digital data converters and mixed-signal integrated circuits. 
+Mr. Tao was a recipient of the National Scholarship in 2018 and the IEEE Solid-State Circuits Society Predoctoral Achievement Award in 2025. He has served as a technical reviewer for IEEE Journal of Solid-State Circuits (JSSC) and IEEE Transactions on Very Large Scale Integration Systems (TVLSI).
