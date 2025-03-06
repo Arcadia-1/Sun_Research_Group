@@ -1,42 +1,38 @@
 ---
 # Display name
-title: Yanquan Luo
+title: Yuxuan He
 
 # Username (this should match the folder name)
 authors:
-- Yanquan Luo
+- Yuxuan He
+
+weight: 2023
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
-# - name: 
+# - name: Tsinghua University
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Analog and mixed signal IC design
-- ADC
-- DAC
-- Sensor analog front-end design
+- Mixed-signal IC design
 
 education:
   courses:
-  - course: Ph.D. degree
-    institution: University of Ulm, Germany
-    year: 2022
-  - course: M.S. degree
-    institution: Delft University of Technology, The Netherlands
-    year: 2015   
-  - course: B.S. degree
-    institution: Fudan University
-    year: 2013
+  - course: Ph.D.
+    institution: Tsinghua University
+    year: 2023-
+  - course: B.S.
+    institution: Tsinghua University
+    year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:he-yx23@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -70,7 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoc
+- Student
 ---
 
-Yanquan Luo received the B.S. degree in microelectronics from Fudan University, China, in 2013, and the M.S. degree in microelectronics from the Delft University of Technology, The Netherlands, in 2015. She has been working as a research assistant while pursuing the Ph.D. degree at University of Ulm, Germany, from 2016 to March, 2022. Since June, 2022, she has engaged in postdoctoral research at Tsinghua University, China. Her current research interest is analog and mixed signal IC design, including ADC, DAC and sensor analog front-end design. She served as a reviewer for JSSC, TCAS-II, ESSCIRC and ISCAS.
+Yuxuan He received the B.S. degree from the department of electronic engineering, Tsinghua University, in June 2023. He has been pursuing the Ph.D. degree since September 2023. His research area includes high-speed analog-to-digital converters and continuous-time analog-to-digital converters.
+

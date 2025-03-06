@@ -1,41 +1,38 @@
 ---
 # Display name
-title: 罗艳荃
+title: 贺宇轩
+
+weight: 2023
 
 # Username (this should match the folder name)
 authors:
-- Yanquan Luo
+- He Yuxuan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 博士后
+role: 博士研究生
 
 # # Organizations/Affiliations
 # organizations:
-# - name: 
-#   url: ""
+# - name: 清华大学电子工程系
+#   url: "https://www.analog.com/cn/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 模拟和混合信号集成电路芯片设计
-- 数据转换器
-- 传感器模拟前端
+- 模拟和混合信号集成电路
 
 education:
   courses:
-  - course: 博士
-    institution: 德国乌尔姆大学
-    year: 2022
-  - course: 硕士
-    institution: 荷兰代尔夫特理工大学
-    year: 2015   
+  - course: 博士研究生
+    institution: 清华大学电子工程系
+    year: 2023-
   - course: 本科
-    institution: 复旦大学
-    year: 2013
+    institution: 清华大学电子工程系
+    year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:he-yx23@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -69,7 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 博士后
+- 团队
 ---
 
-罗艳荃，2013年获得复旦大学科学学士学位，2015年获得荷兰代尔夫特理工大学科学硕士学位。于2016年至2022年3月作为德国乌尔姆大学助理研究员，同时攻读博士学位。于2022年6月加入清华大学电子工程系，开展博士后研究工作。主要研究方向为模拟和混合信号集成电路芯片设计，包括模拟-数字转换器、数字-模拟转换器以及传感器模拟前端的设计等。曾担任JSSC、TCAS-II、ESSCIRC、ISCAS的审稿人。
+主要研究方向为高速模数转换器及连续时间模数转换器设计。
+
