@@ -25,7 +25,7 @@ menu:
 
 
 
-<center><img src="/images/AAIC.jpg" width="50%" /></center>
+<center><img src="/media/AAIC.jpg" width="50%" /></center>
 
 
 
