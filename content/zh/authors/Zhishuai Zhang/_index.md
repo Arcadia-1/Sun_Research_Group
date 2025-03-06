@@ -23,8 +23,9 @@ role: 博士研究生
 bio: 
 
 interests:
-- 模拟和混合信号集成电路
+- SAR ADC
 - 可重构模数转换器
+- 模拟集成电路设计智能化
 
 education:
   courses:
