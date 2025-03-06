@@ -12,7 +12,7 @@ weight: 2024
 superuser: false
 
 # Role/position
-role: 博士后
+role: 博士后（水木学者）
 
 # # Organizations/Affiliations
 # organizations:
