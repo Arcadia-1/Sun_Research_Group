@@ -23,8 +23,8 @@ menu:
 
 
 
-
-
+## 课程教材
+购买链接：http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601
 <center><img src="/media/AAIC.jpg" width="50%" /></center>
 
 

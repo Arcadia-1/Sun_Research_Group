@@ -7,24 +7,20 @@ weight = 15  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 1000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 # height = "calc(100vh - 400px)"
-height = "600px"
-
+height = "700px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
   # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "book2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "AAIC_cover.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-
-
 
 [[item]]
   title = ""
@@ -44,16 +40,6 @@ height = "600px"
   # cta_url = "https://www.sunresearchgroup.top/zh/publication/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
-
-
-
-
-
-[[item]]
-  # overlay_color = "#555"  # An HTML color value.
-  overlay_img = "lab2.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
 
 [[item]]
   # overlay_color = "#555"  # An HTML color value.
