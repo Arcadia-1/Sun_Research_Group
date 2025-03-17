@@ -45,7 +45,7 @@ hero_media = "FOM.jpg"
   url = "http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601"
   label = "《现代模拟集成电路设计》教材热销中"
   icon_pack = "fas"
-  icon = "graduation-cap"
+  icon = "book-open"
 
 # [cta_alt]
 #  url = "https://sourcethemes.com/academic/"
