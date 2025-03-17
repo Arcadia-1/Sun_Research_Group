@@ -41,7 +41,7 @@ hero_media = "FOM.jpg"
   icon_pack = "fas"
   icon = "graduation-cap"
   
-[cta2]
+[cta_alt]
   url = "http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601"
   label = "《现代模拟集成电路设计》教材热销中"
   icon_pack = "fas"
