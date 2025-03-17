@@ -35,13 +35,13 @@ hero_media = "FOM.jpg"
   text_color_light = true
   
   
-[cta]
+[cta_alt]
   url = "https://scholar.google.com/citations?user=dtUMGuMAAAAJ&hl=en"
-  label = "See our publications on Google Scholar"
+  label = "Google Scholar"
   icon_pack = "fas"
   icon = "graduation-cap"
   
-[cta_alt]
+[cta]
   url = "http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601"
   label = "《现代模拟集成电路设计》教材热销中"
   icon_pack = "fas"
