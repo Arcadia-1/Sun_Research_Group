@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 资深工程师
 
 # # Organizations/Affiliations
 # organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: 博士研究生
     institution: 清华大学
-    year: 2020-
+    year: 2020-2025
   - course: 本科
     institution: 清华大学
     year: 2016-2020
@@ -68,7 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 已毕业博士
 ---
 
 古明阳2020年6月毕业于清华大学电子工程系，2020年9月起于清华大学电子工程系攻读博士学位。他主要的研究方向为高速模数转换器以及数字辅助模数转换器设计。

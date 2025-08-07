@@ -12,7 +12,7 @@ weight: 2020
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Senior Engineer
 
 # # Organizations/Affiliations
 # organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D.
     institution: Tsinghua University
-    year: 2020-
+    year: 2020-2025
   - course: B.S.
     institution: Tsinghua University
     year: 2016-2020
@@ -68,8 +68,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- PhD Students Graduated
 ---
 
-Mingyang Gu received the bachelor's degree at June, 2020, from the department of electronic engineering, Tsinghua university. He has been pursuing the doctor's degree since September, 2020. His main research area includes high speed analog-to-digital converters and digitally assisted analog-to-digital converters.
+Mingyang Gu received the B.E. and Ph.D. degrees in 2020 and 2025, respectively, from the Department of Electronic Engineering, Tsinghua University, Beijing, China.
 
+His main research area includes high-speed analog-to-digital converters and digitally assisted analog-to-digital converters.
