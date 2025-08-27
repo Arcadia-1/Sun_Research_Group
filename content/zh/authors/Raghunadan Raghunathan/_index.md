@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Raghunadan Raghunathan
+title: Raghunandan Kolar Ranganathan
 
 # Username (this should match the folder name)
 authors:
-- Raghunadan Raghunathan
+- Raghunandan Kolar Ranganathan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Silicon Labs
+role: Senior manager in Skyworks Austin
 
 # Organizations/Affiliations
 organizations:
