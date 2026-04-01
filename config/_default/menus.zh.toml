@@ -16,11 +16,6 @@
   weight = 20
 
 [[main]]
-  name = "学术成果"
-  url = "#publications"
-  weight = 30
-
-[[main]]
   name = "招聘与招生"
   url = "#posts"
   weight = 50

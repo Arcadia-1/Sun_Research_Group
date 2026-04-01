@@ -8,3 +8,5 @@ header:
   image: ""
 ---
 
+This page collects representative undergraduate and graduate courses offered by the group, including course overviews, entry pages, and a public downloadable materials package.
+

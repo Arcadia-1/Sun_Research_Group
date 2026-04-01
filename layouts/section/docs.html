@@ -1,0 +1,210 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+{{ if eq .Section "courses" }}
+{{ $isZh := eq .Site.Language.Lang "zh" }}
+{{ $downloadURL := "/downloads/%E7%8E%B0%E4%BB%A3%E6%A8%A1%E6%8B%9F%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1ppt.zip" }}
+{{ $bookURL := "http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601" }}
+
+<style>
+  .course-hub {
+    max-width: 1120px;
+  }
+
+  .course-intro {
+    margin: 0 0 2rem;
+    padding: 1.4rem 1.6rem;
+    border-radius: 22px;
+    background: linear-gradient(135deg, #f5f8ff 0%, #eef7f5 100%);
+    border: 1px solid rgba(30, 64, 175, 0.08);
+    box-shadow: 0 18px 42px rgba(15, 23, 42, 0.06);
+  }
+
+  .course-download {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: center;
+    margin: 0 0 2rem;
+    padding: 1.5rem 1.6rem;
+    border-radius: 22px;
+    background: linear-gradient(135deg, #0f172a 0%, #1d4ed8 100%);
+    color: #fff;
+    box-shadow: 0 22px 50px rgba(29, 78, 216, 0.28);
+  }
+
+  .course-download h2,
+  .course-download p {
+    color: inherit;
+    margin: 0;
+  }
+
+  .course-download h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .course-download p {
+    opacity: 0.9;
+  }
+
+  .course-download-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  .course-download .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    border-radius: 999px;
+    padding: 0.8rem 1.2rem;
+    font-weight: 600;
+    background: #fff;
+    color: #0f172a;
+    border: none;
+  }
+
+  .course-download .btn-outline-light {
+    background: transparent;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+  }
+
+  .course-download .btn-outline-light:hover {
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+  }
+
+  .course-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.4rem;
+  }
+
+  .course-card {
+    height: 100%;
+    padding: 1.5rem;
+    border-radius: 22px;
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    box-shadow: 0 18px 36px rgba(15, 23, 42, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .course-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 24px 48px rgba(15, 23, 42, 0.1);
+  }
+
+  .course-card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .course-card h3 {
+    margin: 0;
+    font-size: 1.35rem;
+    line-height: 1.3;
+  }
+
+  .course-badge {
+    flex: 0 0 auto;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    background: #e0ecff;
+    color: #1d4ed8;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  .course-card p {
+    margin: 0 0 1rem;
+    color: #334155;
+  }
+
+  .course-actions {
+    display: flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    margin-top: auto;
+  }
+
+  .course-actions a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+  }
+
+  @media (max-width: 768px) {
+    .course-download {
+      grid-template-columns: 1fr;
+    }
+
+    .course-download-actions {
+      width: 100%;
+    }
+
+    .course-download .btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>
+
+<div class="universal-wrapper course-hub">
+  {{ with .Content }}
+  <div class="article-style course-intro">{{ . }}</div>
+  {{ end }}
+
+  <section class="course-download">
+    <div>
+      <h2>{{ if $isZh }}教材与配套资料{{ else }}Book and Companion Materials{{ end }}</h2>
+      <p>{{ if $isZh }}《现代模拟集成电路设计》由孙楠老师编著。这里提供出版社购书入口，以及与教材配套的 PPT 资料压缩包下载。{{ else }}Modern Analog Integrated Circuit Design is authored by Prof. Nan Sun. This section provides the publisher purchase link together with the companion PPT package download.{{ end }}</p>
+    </div>
+    <div class="course-download-actions">
+      <a class="btn btn-outline-light" href="{{ $bookURL }}" target="_blank" rel="noopener">{{ if $isZh }}出版社购书{{ else }}Buy from Publisher{{ end }}</a>
+      <a class="btn" href="{{ $downloadURL }}">{{ if $isZh }}下载配套资料{{ else }}Download Companion ZIP{{ end }}</a>
+    </div>
+  </section>
+
+  <div class="course-grid">
+    {{ range .Sections.ByWeight }}
+    <article class="course-card">
+      <div class="course-card-top">
+        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+        {{ with .Params.weight }}<span class="course-badge">{{ if $isZh }}课程 {{ . }}{{ else }}Course {{ . }}{{ end }}</span>{{ end }}
+      </div>
+      {{ with .Params.summary }}<p>{{ . | plainify | emojify }}</p>{{ end }}
+      <div class="course-actions">
+        <a href="{{ .RelPermalink }}">{{ if $isZh }}进入课程{{ else }}Open course{{ end }}</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ else }}
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+  <ul class="list-unstyled">
+    {{ if gt (len .Sections) 0}}
+    {{ range .Sections }}
+    <li><h5><a href="{{.RelPermalink}}">{{.LinkTitle}}</a></h5> {{with .Params.summary}}<p>{{. | plainify | emojify}}</p>{{end}}</li>
+    {{end}}
+    {{end}}
+  </ul>
+</div>
+{{ end }}
+
+{{- end -}}
