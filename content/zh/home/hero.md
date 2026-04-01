@@ -10,7 +10,6 @@ title = "做世界一流芯片"
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
 
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -35,17 +34,18 @@ hero_media = "FOM.jpg"
   text_color_light = true
   
   
-[cta_alt]
+[cta]
   url = "https://scholar.google.com/citations?user=dtUMGuMAAAAJ&hl=en"
   label = "Google Scholar"
   icon_pack = "fas"
   icon = "graduation-cap"
   
-[cta]
+[cta_alt]
   url = "http://www.tup.tsinghua.edu.cn/Wap/tsxqy.aspx?id=09717601"
   label = "《现代模拟集成电路设计》教材热销中"
   icon_pack = "fas"
   icon = "book-open"
+
 
 # [cta_alt]
 #  url = "https://sourcethemes.com/academic/"

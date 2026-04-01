@@ -23,9 +23,8 @@ role: 博士研究生
 bio: 
 
 interests:
-- SAR ADC
-- 可重构模数转换器
-- 模拟集成电路设计智能化
+- 面向芯片设计的智能体工程
+- 数模混合信号芯片设计
 
 education:
   courses:
@@ -34,7 +33,7 @@ education:
     year: 2021.9-
   - course: 本科
     institution: 清华大学电子工程系
-    year: 2017.5-
+    year: 2017.8-2021.7
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +70,4 @@ user_groups:
 - 团队
 ---
 
-他于2021年获得中国北京清华大学电子工程系学士学位，现于该校攻读博士学位。他的主要研究方向包括可重构数据转换器、SAR ADC、模拟集成电路设计智能化。他曾获2025年国际固态电路会议（ISSCC）学生旅行资助奖，并获国家自然科学基金青年学者基础研究项目（博士生专项）资助。
+张智帅，清华大学电子工程系本科、直博，曾赴苏黎世联邦理工学院与香港大学访学，长期从事模拟与混合信号集成电路研究，主导及参与流片项目超过十次，曾获IEEE固态电路学会学生电路设计竞赛奖、ISSCC Jack Kilby Outstanding Student Paper Award 及 ISSCC Student Travel Grant Award，获得国家自然科学基金青年学生基础研究项目（博士研究生）资助，入选教育部与工信部集成电路高层次人才培养专项（A档）并获奋进奖学金，获得清华大学综合优秀奖学金（一等）——志华集成电路奖学金、清华大学优秀助教奖、电子工程系刘润生优秀助教奖特等奖、冯重熙科研优秀奖学金等荣誉。

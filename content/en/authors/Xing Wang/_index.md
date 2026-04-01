@@ -12,12 +12,12 @@ weight: 2019
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Graduate
 
-# # Organizations/Affiliations
-# organizations:
-# - name: Tsinghua University
-#   url: ""
+# Organizations/Affiliations
+organizations:
+- name: Witmem
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D.
     institution: Tsinghua University
-    year: 2019-
+    year: 2019-2025.12
   - course: B.S.
     institution: Tsinghua University
     year: 2015-2019
@@ -66,8 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- PhD Students Graduated
 ---
 
-Xing Wang (Student Member, IEEE) received the B.S. degree from Tsinghua University, Beijing, China, in 2019, where he is currently pursuing the Ph.D. degree with Department of Electronic Engineering, Tsinghua University, Beijing, China. From November 2019 to June 2020, he was a Visiting Scholar with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. His research interests include High accuracy low-power SAR analog-to-digital converter (ADC) and DAC designs.
+Xing Wang (Student Member, IEEE) received the B.S. degree from Tsinghua University, Beijing, China, in 2019 and graduated with the Ph.D. degree from the Department of Electronic Engineering, Tsinghua University, Beijing, China, in December 2025. From November 2019 to June 2020, he was a Visiting Scholar with the Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX, USA. He is now with Witmem. His research interests include high-accuracy low-power SAR analog-to-digital converter (ADC) and DAC designs.
 

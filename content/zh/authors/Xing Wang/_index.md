@@ -12,12 +12,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 已毕业博士
 
-# # Organizations/Affiliations
-# organizations:
-# - name: 清华大学电子工程系
-#   url: "https://www.analog.com/cn/index.html"
+# Organizations/Affiliations
+organizations:
+- name: 知存科技
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: 博士
     institution: 清华大学电子工程系
-    year: 2019-
+    year: 2019-2025.12
   - course: 学士
     institution: 清华大学电子工程系
     year: 2015-2019
@@ -66,8 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 已毕业博士
 ---
 
-2019年清华本科毕业，得到学士学位，目前正在清华电子系攻读博士学位。2019年11月到2020年7月，在德州大学奥斯汀分校做访问学者。研究兴趣是混合信号集成电路设计，与高精度SAR ADC和DAC设计。已有多次流片经验。
+王兴于2019年毕业于清华大学电子工程系并获得学士学位，2025年12月毕业于清华大学电子工程系并获得博士学位。2019年11月到2020年7月，他曾在德州大学奥斯汀分校做访问学者。研究兴趣是混合信号集成电路设计，以及高精度低功耗 SAR ADC 和 DAC 设计。
 
