@@ -6,13 +6,13 @@ weight: 2023
 
 # Username (this should match the folder name)
 authors:
-- Wu Deqi
+- Deqi Wu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士研究生
+role: 已毕业硕士
 
 # # Organizations/Affiliations
 # organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: 硕士
     institution: 清华大学集成电路学院
-    year: 2023-
+    year: 2023-2026
   - course: 学士
     institution: 南京航空航天大学集成电路学院
     year: 2019-2023
@@ -66,8 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 已毕业硕士
 ---
 
-研究兴趣为高精度和高速模数转换器设计。
+吴德琦于2023年获得南京航空航天大学集成电路学院学士学位，2026年获得清华大学集成电路学院硕士学位。研究兴趣为高精度和高速模数转换器设计。
 

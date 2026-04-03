@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Hongyu Diao
+title: Kezhuo Liu
 
 # Username (this should match the folder name)
 authors:
-- Hongyu Diao
+- Kezhuo Liu
 
-weight: 2022
+weight: 2026
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. Graduate
+role: Ph.D. Student
 
 # # Organizations/Affiliations
 # organizations:
@@ -20,19 +20,19 @@ role: M.S. Graduate
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 - Mixed-signal IC design
 
 education:
   courses:
-  - course: Master
+  - course: Ph.D.
     institution: Tsinghua University
-    year: 2022.9-2025
+    year: 2026-
   - course: B.S.
-    institution: Tsinghua University
-    year: 2018.9-2022.6
+    institution: Weiyang College, Tsinghua University
+    year: 2022-2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dhy22@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lkz22@mails.tsinghua.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -52,7 +52,7 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -64,10 +64,9 @@ email: ""
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to [] or comment out if you are not using People widget.
 user_groups:
-- Master Students Graduated
+- Student
 ---
 
-Hongyu Diao received the B.S. degree from the Department of Electronic Engineering, Tsinghua University in 2022 and the M.S. degree from Tsinghua University in 2025. His research mainly focuses on mixed-signal IC design, such as precision opamps and high-speed analog-to-digital converters.
-
+Kezhuo Liu received the B.S. degree from the Weiyang College, Tsinghua University, in June 2026. She has been pursuing the Ph.D. degree since September 2026. Her research areas include analog and mixed-signal integrated circuit design and AI-aided analog circuit design.

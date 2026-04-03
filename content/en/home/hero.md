@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "做世界一流芯片"
+title = "Design World-Class Chips"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "FOM.jpg"
@@ -32,6 +32,13 @@ hero_media = "FOM.jpg"
   
   # Text color (true=light or false=dark).
   text_color_light = true
+
+
+[cta]
+  url = "https://scholar.google.com/citations?user=dtUMGuMAAAAJ&hl=en"
+  label = "Google Scholar"
+  icon_pack = "fas"
+  icon = "graduation-cap"
 
 
 +++

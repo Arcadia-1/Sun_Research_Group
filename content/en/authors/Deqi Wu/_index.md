@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuxuan He
+title: Deqi Wu
 
 # Username (this should match the folder name)
 authors:
-- Yuxuan He
+- Deqi Wu
 
 weight: 2023
 
@@ -12,7 +12,7 @@ weight: 2023
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: M.S. Graduate
 
 # # Organizations/Affiliations
 # organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.S.
     institution: Tsinghua University
-    year: 2023-
+    year: 2023-2026
   - course: B.S.
     institution: Nanjing University of Aeronautics and Astronautics
     year: 2019-2023
@@ -66,8 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- Master Students Graduated
 ---
 
-My research interest lies in the design of high-precision and high-speed analog-to-digital converters.
+Deqi Wu received the B.S. degree from Nanjing University of Aeronautics and Astronautics in June 2023 and the M.S. degree from Tsinghua University in 2026. His research interest lies in the design of high-precision and high-speed analog-to-digital converters.
 

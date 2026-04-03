@@ -6,13 +6,13 @@ weight: 2022
 
 # Username (this should match the folder name)
 authors:
-- Diao Hongyu
+- Hongyu Diao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士研究生
+role: 已毕业硕士
 
 # # Organizations/Affiliations
 # organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: 硕士研究生
     institution: 清华大学电子工程系
-    year: 2022.6-
+    year: 2022.9-2025
   - course: 本科
     institution: 清华大学电子工程系
     year: 2018.9-2022.6
@@ -66,8 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 已毕业硕士
 ---
 
-刁弘宇于2022年6月毕业于清华大学电子工程系，专业为电子信息科学与技术，2022年9月起于清华大学电子工程系攻读硕士学位。他的主要研究方向为混合信号模拟集成电路设计，如精密运算放大器、高速模拟数字数据转换器等。
+刁弘宇于2022年6月毕业于清华大学电子工程系，专业为电子信息科学与技术，并于2025年获得清华大学电子工程系硕士学位。他的主要研究方向为混合信号模拟集成电路设计，如精密运算放大器、高速模拟数字数据转换器等。
 

@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Hongyu Diao
+title: 史杲
+
+weight: 2026
 
 # Username (this should match the folder name)
 authors:
-- Hongyu Diao
-
-weight: 2022
+- Gao Shi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. Graduate
+role: 博士研究生
 
 # # Organizations/Affiliations
 # organizations:
-# - name: Tsinghua University
-#   url: ""
+# - name: 清华大学电子工程系
+#   url: "https://www.analog.com/cn/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Mixed-signal IC design
+- 模拟和混合信号集成电路芯片设计
 
 education:
   courses:
-  - course: Master
-    institution: Tsinghua University
-    year: 2022.9-2025
-  - course: B.S.
-    institution: Tsinghua University
-    year: 2018.9-2022.6
+  - course: 博士研究生
+    institution: 清华大学电子工程系
+    year: 2026-
+  - course: 本科
+    institution: 清华大学电子工程系
+    year: 2022-2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dhy22@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sg22@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -66,8 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students Graduated
+- 团队
 ---
 
-Hongyu Diao received the B.S. degree from the Department of Electronic Engineering, Tsinghua University in 2022 and the M.S. degree from Tsinghua University in 2025. His research mainly focuses on mixed-signal IC design, such as precision opamps and high-speed analog-to-digital converters.
-
+主要研究方向为模拟和混合信号集成电路芯片设计。

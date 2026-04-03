@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Hongyu Diao
+title: 金志鸿
+
+weight: 2026
 
 # Username (this should match the folder name)
 authors:
-- Hongyu Diao
-
-weight: 2022
+- Zhihong Jin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. Graduate
+role: 硕士研究生
 
 # # Organizations/Affiliations
 # organizations:
-# - name: Tsinghua University
-#   url: ""
+# - name: 清华大学电子工程系
+#   url: "https://www.analog.com/cn/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-- Mixed-signal IC design
+- 模拟和混合信号集成电路
 
 education:
   courses:
-  - course: Master
-    institution: Tsinghua University
-    year: 2022.9-2025
-  - course: B.S.
-    institution: Tsinghua University
-    year: 2018.9-2022.6
+  - course: 硕士研究生
+    institution: 清华大学集成电路学院
+    year: 2026-
+  - course: 本科
+    institution: 浙江大学信息与电子工程学院
+    year: 2022-2026
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dhy22@mails.tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:1394021634@qq.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -52,7 +52,7 @@ social:
 #   icon_pack: fab
 #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -64,10 +64,9 @@ email: ""
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to [] or comment out if you are not using People widget.
 user_groups:
-- Master Students Graduated
+- 团队
 ---
 
-Hongyu Diao received the B.S. degree from the Department of Electronic Engineering, Tsinghua University in 2022 and the M.S. degree from Tsinghua University in 2025. His research mainly focuses on mixed-signal IC design, such as precision opamps and high-speed analog-to-digital converters.
-
+主要研究方向为高精度模数转换器及连续时间模数转换器设计。
