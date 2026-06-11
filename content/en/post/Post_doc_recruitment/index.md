@@ -1,9 +1,8 @@
----
-title: 招聘博士后2~3名
-summary: 长期有效
+title: Recruiting Two to Three Postdoctoral Researchers
+summary: Ongoing recruitment.
 
 date: "2020-11-15T00:00:00Z"
-lastmod: "2021-04-02T00:00:00Z"
+lastmod: "2026-04-08T00:00:00Z"
 featured: false
 draft: false
 
@@ -24,13 +23,15 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## 应聘条件
-1. 芯片设计和设计自动化相关方向的博士学位
-2. 热爱科研工作，对芯片设计有浓厚的科研兴趣
-3. 有自信心和进取心，敢于攀登科研高峰，有做出国际领先水平研究工作的勇气和动力
-4. 心理成熟，面对科研挑战有恒心，有毅力；有责任心和团队精神，乐于与他人合作沟通
-5. 有扎实的科研训练和知识储备，科研作风严谨，有较强的中英文写作能力
 
+## Qualifications
 
-## 岗位待遇
-将提供国际一流的科研环境和实验平台，在清华大学博士后的标准薪酬和福利待遇基础上（具体情况参见清华大学博士后申请相关网页）提供高竞争力的津贴及奖金，确保入选者可以在充足的资源条件下全身心投入研究工作。
+1. Ph.D. degree in chip design, design automation, or a closely related area
+2. Strong enthusiasm for research and a clear interest in chip design
+3. Confidence, initiative, and the motivation to pursue internationally leading research
+4. Professional maturity, perseverance in the face of research challenges, and a strong sense of responsibility and teamwork
+5. Solid research training, rigorous academic standards, and strong writing skills in both Chinese and English
+
+## Position and Benefits
+
+We provide a first-class research environment and experimental platform. In addition to the standard salary and benefits offered to Tsinghua University postdoctoral researchers, as described on the university's postdoctoral application webpages, selected candidates will receive competitive additional support and bonuses so that they can focus fully on research with sufficient resources.
