@@ -70,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 已毕业博士
 ---
 
 陶云松于2021年6月毕业于清华大学新雅书院，专业为电子信息科学与技术，2021年9月起于清华大学电子工程系攻读博士学位。他的主要研究方向为高速模拟数字转换器设计。

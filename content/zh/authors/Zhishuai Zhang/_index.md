@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 团队
+- 已毕业博士
 ---
 
 张智帅，清华大学电子工程系本科、直博，曾赴苏黎世联邦理工学院与香港大学访学，长期从事模拟与混合信号集成电路研究，主导及参与流片项目超过十次，曾获IEEE固态电路学会学生电路设计竞赛奖、ISSCC Jack Kilby Outstanding Student Paper Award 及 ISSCC Student Travel Grant Award，获得国家自然科学基金青年学生基础研究项目（博士研究生）资助，入选教育部与工信部集成电路高层次人才培养专项（A档）并获奋进奖学金，获得清华大学综合优秀奖学金（一等）——志华集成电路奖学金、清华大学优秀助教奖、电子工程系刘润生优秀助教奖特等奖、冯重熙科研优秀奖学金等荣誉。

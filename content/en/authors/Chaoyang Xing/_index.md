@@ -65,7 +65,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- PhD Students Graduated
 ---
 
 Chaoyang Xing, a fourth year undergraduate, studied in the Department of electronic engineering, Tsinghua University. His main research direction is the design of oversampling data converter, especially the kinds of low power consumption and high precision.
