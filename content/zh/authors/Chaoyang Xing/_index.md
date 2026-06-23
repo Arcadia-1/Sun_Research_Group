@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 知存科技
 
 # # Organizations/Affiliations
 # organizations:

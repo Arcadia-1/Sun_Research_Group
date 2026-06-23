@@ -12,7 +12,7 @@ weight: 2018
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Senior Engineer
 
 # # Organizations/Affiliations
 # organizations:

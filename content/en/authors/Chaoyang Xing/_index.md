@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: WITINMEM
 
 # # Organizations/Affiliations
 # organizations:
